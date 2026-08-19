@@ -13,9 +13,12 @@ distinct_sha256	317319
 logical_bytes	336321196441
 logical_gib	313.21
 delivery_channel	MEGA
+mega_upstream_host	Conan James Hayes (per Ziegler attribution)
+relay_to_author	Garrett Ziegler (August 2021)
+first_known_download	Marc Aaron DeGiovanni (August 2021)
 stamp_local	2021-07-28
 burst_utc	2021-07-29 04:19:09 – 04:46:08
-immediate_provider_to_author	Garrett Ziegler (August 2021 MEGA)
-alleged_upstream	Conan James Hayes
+immediate_provider_to_author	Garrett Ziegler relayed Hayes MEGA link (August 2021)
+alleged_upstream	Conan James Hayes (MEGA host; not direct handoff to author)
 hayes_method_claim	carved from unallocated / deleted space (R-00014, 2024-04-17)
 source_bytes_in_this_repo	no
