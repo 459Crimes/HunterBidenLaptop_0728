@@ -65,7 +65,7 @@ Many `.webarchive` objects are **mislabeled** Apple plist / CardDAV / NSKeyedArc
 | any of those three | **222,684 (70.2%)** |
 | none of those three | **94,635 (29.8%)** |
 
-A 0728 hash that matches APFS is **the same bytes** as some APFS file. It is not proof the bytes were copied from the June 2022 SanDisk image (they could share an earlier common source). A 0728 hash that matches none of the three is **unexplained in those catalogs**.
+A 0728 hash that matches APFS is **the same bytes** as some file in Hayes’s APFS (`RHB_Boot.imgc` / APFS*). It is not proof the bytes were copied from that **13 June 2022** MEGA image (they could share an earlier common source). A 0728 hash that matches none of the three is **unexplained in those catalogs**.
 
 Vs **all** other indexed `rhb_forensics` sources (including 0728 derivatives), an earlier report counted **82,883** exclusive hashes (26.1%). Derivative sources (webarchive copies, unpacks) shrink the exclusive set. Both numbers are useful; they answer different questions. See [Integrity](INTEGRITY.md).
 

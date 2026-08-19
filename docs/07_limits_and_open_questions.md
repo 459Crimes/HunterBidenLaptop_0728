@@ -16,7 +16,7 @@ This encyclopedia **does** establish:
 
 This encyclopedia **does not** establish:
 
-- the make, serial, or hash of the **actual** volume R-Studio scanned in July 2021 (it was **not** unallocated space of the original NVMe or of Hayes’s later APFS / GAI in any substantial amount);
+- the make, serial, or hash of the **actual** volume R-Studio scanned in July 2021 (it was **not** unallocated space of the original NVMe or of **APFS*** / Hayes’s APFS (`RHB_Boot.imgc`, MEGA **13 June 2022**) / GAI in any substantial amount);
 - a named origin for the 94,635 primary-exclusive hashes;
 - registered informant status (Backpage / federal-protection story is discussed, not proved);
 - a causal link from a Trump call to the iPhone FD-597;

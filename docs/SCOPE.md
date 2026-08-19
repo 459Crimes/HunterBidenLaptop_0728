@@ -21,7 +21,7 @@ Questions this repo is built to answer:
 |---|---|
 | Full JPMI disk encyclopedia | Separate GitHub: `459Crimes/BidenLaptop_JPMI` |
 | GAI (`GAI://`, image `hb.img`) | Truncated HFS+ image; join only via hashes |
-| APFS / MARYMAN / GUSTAV / TODD / MPOLO / APFS* | Costello-line APFS family. Hayes delivered APFS* in Jun 2022; that image is **not** this tree |
+| APFS / MARYMAN / GUSTAV / TODD / MPOLO / APFS* | Costello-line APFS family. **APFS*** is the `RHB_Boot.imgc` image file Hayes MEGA-sent this author on **13 June 2022**; when analyzed, **APFS** / Hayes’s APFS. **Not** this tree |
 | Publishing Extra Found Files bytes | Restricted source; this tree is a metadata/hash witness |
 | Retrying the political media war of 2020 | Not required to describe the export |
 | Identifying every file’s newsworthiness | Census and provenance, not a content magazine |

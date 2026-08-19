@@ -12,7 +12,7 @@ The MPOLO stick **lacked essential macOS system files, including password vaults
 
 DeGiovanni’s membership, his role pushing the group onto the laptop, and his status as **first person known to download** from Hayes’s MEGA link (after Ziegler relayed it) are **author identification**. They do not make Marco Polo’s page counts into this repo’s `build/` tables.
 
-The June 2022 **APFS*** image Hayes sent this author is **later** than MPOLO’s claimed receipt and is a **descendant in the bootable family**, not Extra Found Files.
+**APFS*** — the image file `RHB_Boot.imgc` Hayes MEGA-sent this author on **13 June 2022** — is **later** than MPOLO’s claimed receipt and is a **descendant in the bootable family**, not Extra Found Files. When analyzed it is **APFS** / Hayes’s APFS.
 
 ## See also
 

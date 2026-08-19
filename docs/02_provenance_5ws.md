@@ -53,7 +53,7 @@ There is no single “0728 date.” Different dates describe different events.
 | May 2021 | Mesa County trusted build (Hayes) | Hayes forensic-imaging act on a **different** system |
 | **2021-07-28 / 07-29** | Local stamp + UTC write burst (~177k paths in ~27 min) | **Materialization** of this tree |
 | August 2021 | Ziegler shares Hayes’s MEGA link; author download (**first known**) | Project acquisition |
-| June 2022 | Hayes MEGA APFS image | Different object |
+| **13 June 2022** | Hayes MEGA-sends APFS* (`RHB_Boot.imgc` image file) | Different object |
 | 2022-09-13 | FBI FD-597 iPhone | Hayes/FBI contact; not 0728 hashing |
 | 2024-04-17 | R-00014 carving statement | Participant method account |
 | 2026 mtimes on ~267k paths | Working-copy / index stamps on this project’s disks | Handling, not 2021 recovery |

@@ -13,6 +13,7 @@ Each row is a **claim** used in the articles, the **class**, and the **source**.
 | Vs all other indexed sources: 234,436 match, 82,883 exclusive (26.1%) | Comparative (broader) | Parent `SOURCE_OVERLAP_0728_REPORT.md` (2026-07-10) |
 | ~177,488 paths in UTC burst 2021-07-29 04:19:09–04:46:08 | Direct 0728 | Parent four-primary-sources note; mtime year 2021 in `01_time_distribution.tsv` |
 | Ziegler relayed Hayes’s MEGA link to author, Aug 2021 | Author collection | [MEGA delivery](MEGA_DELIVERY.md); parent `docs/PROVENANCE.md` |
+| Hayes MEGA-sent APFS* (`RHB_Boot.imgc`) to author on **13 June 2022** (file datestamp); when analyzed: APFS / Hayes’s APFS | Author collection | [Glossary](GLOSSARY.md) · parent `DATA_SOURCE_CATALOG.md` |
 | Author is first person **known** to download from Hayes’s MEGA link | Author collection | Same |
 | Hayes hosted Extra Found Files on MEGA (per Ziegler) | Participant (Ziegler) | Same |
 | Ziegler attributed Extra Files to Hayes | Participant (Ziegler) | Same |

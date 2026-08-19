@@ -43,7 +43,7 @@ The sentence “Hayes hacked Hunter Biden’s iCloud and stuffed the results int
 The following are **not** findings of this encyclopedia:
 
 - that 0728 is a sector copy of the MacBook internal SSD;
-- that 0728 was carved from the June 2022 APFS image as now indexed;
+- that 0728 was carved from APFS* / Hayes’s APFS (`RHB_Boot.imgc`, MEGA 13 June 2022) as now indexed;
 - that every unmatched hash is non-laptop in origin;
 - that Hayes was a registered FBI confidential informant;
 - that the 13 Sep 2022 iPhone event was caused by a call with Donald Trump;
@@ -61,8 +61,8 @@ Integrity wording used in the articles is in [Integrity](INTEGRITY.md).
 |---|---|
 | **0728 / Extra Found Files** | This recovery-export corpus. Not from the laptop files *per se* as a filesystem extract |
 | **JPMI** | John Paul Mac Isaac **copy lineage** (separate encyclopedia) |
-| **APFS** | TRIMARCO→Hayes bootable SanDisk family (`HB Boot Drive`). Sibling, not this tree |
-| **APFS*** | Jun 2022 Hayes `RHB_Boot.imgc` to this author |
+| **APFS / Hayes’s APFS** | The APFS volume **as analyzed** in this project (source 1). It is the decompressed contents of **APFS***. Not the MacBook internal NVMe. |
+| **APFS*** | Compressed image file `RHB_Boot.imgc`. **Conan Hayes** sent it **directly** to this author over **MEGA** on **13 June 2022** — the date stamped on the file (`CJH20220613`). Not a USB stick handed to the author. |
 | **GAI** | Government Accountability Institute truncated HFS+ image (`hb.img`) |
 | **MPOLO** | Marco Polo’s claimed Jun 2021 Hayes **bootable laptop**, not 0728 |
 | **R-00014** | 17 April 2024 recorded call, Hayes and DeGiovanni |

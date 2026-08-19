@@ -9,7 +9,7 @@
 | 1 (alleged) | **Conan James Hayes → Garrett Ziegler** | by August 2021 | Hayes’s **MEGA link** for Extra Found Files; Ziegler’s attribution; Hayes later claimed the recovery method on R-00014 |
 | 2 (confirmed here) | **Garrett Ziegler → Marc Aaron DeGiovanni** | **August 2021** | Ziegler **shared** Hayes’s link; author download — **first person known** to download from that MEGA share |
 
-**Important.** The author did **not** receive 0728 directly from Hayes. Hayes did **not** hand the author a separate MEGA URL for Extra Found Files. The June 2022 `RHB_Boot.imgc` MEGA object is a **different** Hayes-to-author delivery (APFS*, not 0728).
+**Important.** The author did **not** receive 0728 directly from Hayes. Hayes did **not** hand the author a separate MEGA URL for Extra Found Files. On **13 June 2022** Hayes MEGA-sent a **different** object directly to the author: the image file `RHB_Boot.imgc` (**APFS***; when analyzed, **APFS** / Hayes’s APFS). That is not 0728 and not a USB stick.
 
 Older notes that say “received from Conan Hayes, Aug 2021” or “Ziegler provided the MEGA share” **without** naming Hayes as upstream **collapse hop 1 and hop 2**, or imply Ziegler originated the folder. This encyclopedia does not.
 
@@ -19,7 +19,7 @@ Continuity from that download to the current 480,039-path inventory is **author 
 
 ## What MEGA is not
 
-MEGA is a **transfer channel**. It is not a filesystem, not R-Studio, and not proof of the scanned disk. The later Hayes MEGA object — `RHB_Boot.imgc` in June 2022 — is the **APFS*** image, a different file and a **direct** Hayes → author hop.
+MEGA is a **transfer channel**. It is not a filesystem, not R-Studio, and not proof of the scanned disk. The later Hayes MEGA object — `RHB_Boot.imgc` on **13 June 2022** (file datestamp) — is **APFS***, a different **image file** and a **direct** Hayes → author hop.
 
 ## Jack Maxey / Patrick Byrne (downstream holders)
 

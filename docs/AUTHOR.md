@@ -23,7 +23,7 @@ Both URLs are cited. Phone numbers, home addresses, and other personal identifie
 - On **8 April 2022**, as **@MAXXISCOPOLIS** on Patrick Byrne’s Locals stream, he posted that the deleted data came from a **hack not involving the laptop**, and posted a screenshot of the already-held `Extra_Found_Files` tree (**473,580** files, created **5 Aug 2021**). Byrne, on the same stream, used the word **“trick.”** [Patrick Byrne](PATRICK_BYRNE.md).
 - Hayes later described the recovery method on **R-00014**. The MPOLO stick Marco Polo used **lacked keychain vaults**; the iPhone-backup password came from Hayes’s fuller copy. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
-Marco Polo’s published *Report on the Biden Laptop* used Hayes’s **bootable laptop** (**MPOLO**, Jun 2021) **plus 0728** as a sidecar set. It did **not** analyze the JPMI copy. The author’s later **APFS*** image is **Jun 2022**, sent by Hayes. See [Marco Polo](MARCO_POLO.md).
+Marco Polo’s published *Report on the Biden Laptop* used Hayes’s **bootable laptop** (**MPOLO**, Jun 2021) **plus 0728** as a sidecar set. It did **not** analyze the JPMI copy. The author’s **APFS*** is the image file `RHB_Boot.imgc`, MEGA-sent by Hayes on **13 June 2022** (file datestamp). When analyzed: **APFS** / Hayes’s APFS. See [Marco Polo](MARCO_POLO.md).
 
 This encyclopedia is a **later, separate** 459Crimes publication about **0728 forensics and the Hayes record**. Membership in Marco Polo does not make Marco Polo’s page counts into 0728 hash tables.
 
@@ -54,7 +54,7 @@ That referral is **author advocacy**, not an FBI or DOJ finding, and not a subst
 |---|---|---|
 | **0728 Extra Found Files** | Hayes’s MEGA link after 28 July 2021; relayed Hayes → Ziegler → author (Aug 2021) | **Yes** — the object of this repo |
 | **JPMI forensics** | Mac Isaac direct-copy lineage | Named for disambiguation; **not** analyzed here |
-| **APFS / APFS*** | Bootable SanDisk family; Hayes MEGA 13 Jun 2022 `RHB_Boot.imgc` | Out of scope except as a hash-join target |
+| **APFS / APFS*** | Hayes MEGA image file `RHB_Boot.imgc` (**13 Jun 2022**); analyzed as APFS / Hayes’s APFS | Out of scope except as a hash-join target |
 | **GAI** | Truncated HFS+ `hb.img` | Out of scope except as a hash-join target |
 
 ## See also

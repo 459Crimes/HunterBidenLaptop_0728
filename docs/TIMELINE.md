@@ -11,7 +11,7 @@ Compact event list. Narrative: [06](06_timeline_and_handling.md).
 | **2021-07-28/29** | **0728 materialization burst** |
 | 2021-08 | Ziegler relays **Hayes’s MEGA link** → author (**first known download**); recalled iCloud/thumbnail “trick” |
 | **2022-04-08** | **Byrne Locals: 400k files / “the trick”; author Extra Found Files screenshot** |
-| 2022-06-13/22 | Hayes MEGA APFS* → author |
+| 2022-06-13 | Hayes MEGA-sends APFS* (`RHB_Boot.imgc` image file) directly to author |
 | 2022-08-08 | Mar-a-Lago search (public) |
 | **2022-09-13** | **FD-597 Hayes iPhone; Lindell phone same day** |
 | **2024-04-17** | **R-00014 carving call** |

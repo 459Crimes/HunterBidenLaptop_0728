@@ -80,9 +80,11 @@ Unallocated-only carving of one laptop SSD cannot emit **both** populations at s
 
 SHA-256 catalogs test **indexed files**. L3 tests **raw partition bytes**: allocated files, slack, snapshots, free space, concatenated unallocated exports.
 
-### APFS (the SanDisk Hayes later sent this author)
+### APFS / APFS* / Hayes’s APFS (MEGA image file, 13 June 2022)
 
-This is the disk Hayes’s story needs. If Extra Files were carved from “the laptop” he worked, **this is the candidate he actually delivered** (`RHB_Boot.imgc`, June 2022; CCC-family volume **12 Dec 2020**, snapshots **5 Jan 2021**).
+**APFS*** is `RHB_Boot.imgc`. Hayes sent that **image file** over a **MEGA link directly to this author on 13 June 2022**, the date stamped on the file. When mounted and hashed, the same object is called **APFS** or **Hayes’s APFS**. It is **not** a stick mailed or handed over.
+
+If Extra Files were carved from “the laptop” Hayes worked, **this is the candidate he actually delivered** (CCC-family volume **12 Dec 2020**, snapshots **5 Jan 2021**, inside the imgc).
 
 Parent-project L3 / unallocated prototype on the APFS unallocated-byte concatenation (~154 GiB of exported free space; then-unmatched universe ~112k hashes):
 
@@ -96,7 +98,7 @@ That is a **positive control** that the scanner works: a **tiny** subset of then
 
 Later full-surface work located additional byte-exact hits of formerly “unmatched” objects on APFS/GAI surfaces (including some unallocated). Those recoveries **shrink** the mystery pile. They do **not** convert Hayes’s dump into an unallocated carve of one 256 GB SSD. The **controlling remainder** of this encyclopedia — hashes still absent from APFS, GAI, **and** JPMI catalogs — is **94,635**. Those objects are **not** a substantial unallocated population on Hayes’s APFS image.
 
-**Hayes’s own disk falsifies Hayes’s source claim.** If he carved Extra Files from that stick’s white space, L3 would have found the unmatched payload there. It did not, except a rounding-error residue.
+**Hayes’s own APFS image falsifies Hayes’s source claim.** If he carved Extra Files from that image’s white space, L3 would have found the unmatched payload there. It did not, except a rounding-error residue.
 
 ### GAI (HFS+ copy that predates the APFS bootable)
 
@@ -107,7 +109,7 @@ L3 / full-surface work on acquired GAI bytes likewise does **not** place a subst
 1. TRIM on the NVMe;
 2. file-aware shop copy (they wouldn’t);
 3. an HFS+ copy made **before** the APFS bootable existed;
-4. **and** Hayes’s later APFS image.
+4. **and** **APFS*** / Hayes’s APFS (`RHB_Boot.imgc`, MEGA **13 June 2022**).
 
 They survive **none** of those tests in bulk.
 
@@ -145,7 +147,7 @@ You cannot “bring back” ~276–313 GiB of unique logical output from ~30 GB 
 - that R-Studio was not used (the tree **is** that dialect);
 - a named alternative source for every one of the 94,635 hashes.
 
-It **does** claim: Hayes’s **process description** — Extra Files as deleted laptop bytes floating in unallocated / another partition, resurrected by carving — is **not** how the unmatched 0728 corpus was obtained, **not** how a 256 GB TRIM’d SSD works, **not** what a file-aware shop copy can contain, and **not** what L3 sees on the APFS disk he later sent or on GAI.
+It **does** claim: Hayes’s **process description** — Extra Files as deleted laptop bytes floating in unallocated / another partition, resurrected by carving — is **not** how the unmatched 0728 corpus was obtained, **not** how a 256 GB TRIM’d SSD works, **not** what a file-aware shop copy can contain, and **not** what L3 sees on **Hayes’s APFS** (`RHB_Boot.imgc`, MEGA **13 June 2022**) or on GAI.
 
 ## See also
 

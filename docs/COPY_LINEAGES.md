@@ -12,7 +12,7 @@ Mac Isaac retained-copy universe (Apr 2019 → later copies)
         ├─► APFS bootable SanDisk HB Boot Drive      [not 0728]
         │       TRIMARCO → … → TODD → HAYES
         │                         ├─ MPOLO (Jun 2021 bootable, Marco Polo)
-        │                         └─ APFS* (Jun 2022 imgc to this author)
+        │                         └─ APFS* (RHB_Boot.imgc MEGA 13 Jun 2022 → this author)
         └─► 0728 Extra Found Files                   [this encyclopedia]
                 R-Studio export, Jul 2021
                 MEGA: Hayes → Ziegler → author (Aug 2021; first known download)

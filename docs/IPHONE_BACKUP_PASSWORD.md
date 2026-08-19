@@ -20,7 +20,7 @@ That is the MPOLO limitation as used in this encyclopedia. [Garrett Ziegler](GAR
 
 ## What the fuller Hayes copy contained
 
-On the Hayes-family APFS image later sent to this author (`RHB_Boot.imgc`, June 2022) — and in forensic extracts from that family — there is a **renamed historical keychain**:
+On **APFS*** / Hayes’s APFS — the image file `RHB_Boot.imgc` Hayes MEGA-sent this author on **13 June 2022** — and in forensic extracts from that family — there is a **renamed historical keychain**:
 
 | Property | Value |
 |---|---|

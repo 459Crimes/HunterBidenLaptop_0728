@@ -9,7 +9,7 @@
 | Distinct SHA-256 | 317,319 | Path count (duplicates exist) |
 | Logical bytes | 336,321,196,441 | “Deleted space on the MacBook NVMe” |
 | PG `files` rows source 2 (all prefixes) | 960,533 | Canonical census — includes duplicate `source/` prefix |
-| APFS-matching hashes | 205,262 | Proof 0728 was copied from the Jun 2022 image |
+| APFS-matching hashes | 205,262 | Proof 0728 was copied from the 13 June 2022 MEGA image |
 | Primary-exclusive hashes | 94,635 | Named alternative source |
 
 Path count > hash count because the same blob can appear more than once (recovery duplicates, category collisions).

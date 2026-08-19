@@ -26,7 +26,7 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 ## 2022 — APFS to the author; FBI takes Hayes’s phone
 
-**13 June 2022 / receipt 22 June 2022.** Hayes MEGA-hosts `RHB_Boot.imgc` (APFS*). Author receipt. **Not 0728.**
+**13 June 2022.** Hayes sent this author the image file `RHB_Boot.imgc` (**APFS***) over a MEGA link — the date stamped on the file (`CJH20220613`). When analyzed, the same object is **APFS** / Hayes’s APFS. It is **not** a USB stick handed over. **Not 0728.**
 
 **8 August 2022.** Mar-a-Lago search (public event). Hayes later tied his phone stop to a Trump call days before this raid (R-00014). **Self-report.**
 

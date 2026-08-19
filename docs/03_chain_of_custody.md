@@ -30,7 +30,7 @@ MEGA folder (Hayes link)  ←  Garrett Ziegler  →  Marc Aaron DeGiovanni (Aug 
 - The Mac Shop April 2019 repair (JPMI / laptop originals).
 - FBI subpoena 9 Dec 2019 (shop devices).
 - Della Rocca → Todd Sanders Crucial X6 (JPMI).
-- Hayes → author APFS image, June 2022 (different object).
+- Hayes → author **APFS*** (`RHB_Boot.imgc` MEGA **13 June 2022**; different object).
 - GAI Tallahassee imaging, Spring 2023 (different object).
 
 Those events explain **other corpora**. Putting them on the 0728 chain as if they were parents of Extra Found Files is a category error unless a hash or transfer record says so.

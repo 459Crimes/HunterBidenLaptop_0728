@@ -9,7 +9,7 @@ Imagine three photocopiers made copies of “the laptop”:
 | Copier | Project name | What it is |
 |---|---|---|
 | Repair-shop lineage | **JPMI** | File list + hashes from Mac Isaac’s copy |
-| Bootable stick | **APFS** | The SanDisk image Hayes later sent |
+| Hayes’s APFS / APFS* | **APFS** | MEGA image `RHB_Boot.imgc`, sent **13 June 2022** |
 | GAI’s drive | **GAI** | Truncated HFS+ image |
 
 **SHA-256** is a fingerprint of the **exact bytes**. If two files have the same fingerprint, they are the same object (not “looks similar”).
@@ -49,7 +49,7 @@ The **23-image exhibit** was built to show that mix: all 23 are SHA-256 negative
 
 | Source | What was compared | Gap |
 |---|---|---|
-| APFS | Live files on the Hayes SanDisk image (source 1) | Not the MacBook’s internal NVMe; CCC-expanded external |
+| APFS / Hayes’s APFS | Live files in the decompressed `RHB_Boot.imgc` (source 1) | Not the MacBook’s internal NVMe; CCC-expanded external imaged as a **file**, delivered MEGA **2022-06-13** |
 | GAI | Files on the truncated HFS+ image (source 116) | Missing ~300 GiB tail |
 | JPMI | Reported hashes from the Mac Isaac metadata package (source 122) | Metadata/hash witness; not every E01 byte re-read here |
 
@@ -67,7 +67,7 @@ Hayes’s R-00014 account is the **named competing story** for these 94,635 hash
 
 1. **TRIM** on the original **256 GB NVMe** — deallocate returns zeros; carving zeros recovers nothing.
 2. **File-aware shop copy** — Mac Isaac copied allocated files to a store server; unallocated LBAs never entered the circulating copies.
-3. **L3 on Hayes’s APFS** — the disk he later sent this author does not hold a substantial unmatched payload in unallocated space (~60 MiB class residue in the unallocated prototype vs ~313 GiB of 0728).
+3. **L3 on Hayes’s APFS (APFS*)** — the **image file** he MEGA-sent this author on **13 June 2022** does not hold a substantial unmatched payload in unallocated space (~60 MiB class residue in the unallocated prototype vs ~313 GiB of 0728).
 4. **L3 on GAI** — HFS+ lineage from **before** the 12 Dec 2020 APFS bootable volume existed; same absence of a substantial unallocated source.
 
 R-Studio **did** strip filenames. That is how Known File Types **writes**. It is not evidence the **input** was white space. [Carving claim](HAYES_CARVING_CLAIM.md).

@@ -14,7 +14,7 @@ Relayed **Hayes’s MEGA link** for 0728 to this author (**August 2021**). Immed
 
 ## Marc Aaron DeGiovanni (author)
 
-**First person known to download** from Hayes’s MEGA link (shared by Ziegler, August 2021). Locals @MAXXISCOPOLIS screenshot and “hack not involving the laptop”; later **direct** recipient of Hayes’s APFS image (June 2022). Publisher of this encyclopedia. [Author](AUTHOR.md) · [Circular custody](CIRCULAR_CUSTODY.md).
+**First person known to download** from Hayes’s MEGA link (shared by Ziegler, August 2021). Locals @MAXXISCOPOLIS screenshot and “hack not involving the laptop”; later **direct** recipient of **APFS*** (`RHB_Boot.imgc` MEGA **13 June 2022**; analyzed as Hayes’s APFS). Publisher of this encyclopedia. [Author](AUTHOR.md) · [Circular custody](CIRCULAR_CUSTODY.md).
 
 ## Patrick Byrne
 

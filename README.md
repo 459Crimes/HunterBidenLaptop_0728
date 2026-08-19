@@ -112,7 +112,7 @@ Full sourced narrative: [Timeline and handling](docs/06_timeline_and_handling.md
 | **Jun 2021** | Marco Polo claimed receipt of a Hayes **bootable laptop** (**MPOLO**). Separate from 0728. | Marco Polo v4 |
 | **28–29 Jul 2021** | 0728 tree materialized (local stamp 28 Jul; UTC burst ~27 min). | Direct 0728 mtime / burst analysis |
 | **Aug 2021** | Ziegler shared **Hayes’s MEGA link** with the author; author is **first known downloader**; Ziegler attributed Hayes and (author recollection) described an iCloud/thumbnail “trick”. | Author collection · [MEGA delivery](docs/MEGA_DELIVERY.md) · [Circular custody](docs/CIRCULAR_CUSTODY.md) |
-| **13 Jun / 22 Jun 2022** | Hayes sent this author the APFS image (`RHB_Boot.imgc`) via MEGA. **Not 0728.** | Author receipt |
+| **13 Jun 2022** | Hayes sent this author **APFS*** — the image file `RHB_Boot.imgc` — over MEGA (file datestamp). When analyzed: **APFS** / Hayes’s APFS. **Not 0728.** | Author receipt |
 | **13 Sep 2022** | FBI Form **FD-597**: Hayes black iPhone “Received From”; SA **Calum Ramm** (Dallas). | Photographed FBI form — [Exhibits](docs/EXHIBITS.md) |
 | **8 Apr 2022** | Byrne Locals: ~400k “deleted” files; “**the trick**”; author screenshot of Extra Found Files (473,580) and “hack **not involving the laptop**”. | Archived stream + chat · [Byrne](docs/PATRICK_BYRNE.md) |
 | **17 Apr 2024** | Recorded call **R-00014** (excerpts): Trump/Mar-a-Lago; Extra Files carving; FBI/Backpage. | Audio exhibit |

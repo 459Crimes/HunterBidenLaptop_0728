@@ -2,7 +2,7 @@
 
 > **Hatnote.** Human center of the 0728 story. Informant claim: [Informant theory](INFORMANT_THEORY.md). Call excerpts: [R-00014](R00014_CALL.md). Mesa County: [Tina Peters](TINA_PETERS.md).
 
-**Conan James Hayes** (also billed as **C. James Hayes**) is a former professional surfer, co-founder of the clothing brand **RVCA**, and the person this encyclopedia treats as the **alleged producer** of Extra Found Files and the **direct MEGA provider** of the June 2022 APFS image (**not** the direct handoff of 0728 to this author — that was relayed through Ziegler; see [MEGA delivery](MEGA_DELIVERY.md)).
+**Conan James Hayes** (also billed as **C. James Hayes**) is a former professional surfer, co-founder of the clothing brand **RVCA**, and the person this encyclopedia treats as the **alleged producer** of Extra Found Files and the **direct MEGA provider** of **APFS*** (`RHB_Boot.imgc`, **13 June 2022**). He did **not** hand 0728 to this author — that hop was relayed through Ziegler; see [MEGA delivery](MEGA_DELIVERY.md).
 
 ## Biography (public record)
 
@@ -26,7 +26,7 @@ This encyclopedia cites those outlets as **contemporaneous journalism and forum-
 
 1. **Alleged upstream MEGA host** — Hayes’s MEGA link for Extra Found Files; Ziegler received it and relayed it to this author (**August 2021**). Author is the **first person known to download** from that link.
 2. **Method claim (rejected)** — R-00014 carving language, April 2024. Unallocated-space origin of Extra Files is **incompatible** with TRIM, file-aware copy, and L3. [Carving claim](HAYES_CARVING_CLAIM.md).
-3. **Direct APFS*** — `RHB_Boot.imgc`, June 2022, to this author.
+3. **Direct APFS*** — image file `RHB_Boot.imgc`, MEGA to this author on **13 June 2022** (file datestamp). When analyzed: **APFS** / Hayes’s APFS.
 4. **iPhone-backup password** — Hayes’s copy retained the macOS **keychain vault** that Marco Polo’s bootable lacked. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 5. **Informant / cover-identity story** — the same Backpage/federal-protection narrative appears in Peters’s court filings **and** on R-00014. That story is the **political and operational context** for asking whether 0728 is only a laptop carve. [Informant theory](INFORMANT_THEORY.md).
 

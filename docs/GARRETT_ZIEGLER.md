@@ -1,6 +1,6 @@
 # Garrett Ziegler / Marco Polo
 
-> **Hatnote.** Relayed **Hayes’s MEGA link** for Extra Found Files (August 2021). Bootable copy they analyzed: **MPOLO**, not the later APFS* image. Password: [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
+> **Hatnote.** Relayed **Hayes’s MEGA link** for Extra Found Files (August 2021). Bootable copy they analyzed: **MPOLO**, not **APFS*** (`RHB_Boot.imgc`, MEGA **13 June 2022** to this author). Password: [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
 **Garrett Ziegler** is the founder of **Marco Polo** and the person who, in **August 2021**, relayed to **Marc Aaron DeGiovanni** a **MEGA** link to the Extra Found Files tree that **Hayes had given Ziegler**. That relay is the **confirmed** start of this project’s 0728 custody. Ziegler was **not** the alleged upstream host of the share. [MEGA delivery](MEGA_DELIVERY.md) · [Author](AUTHOR.md).
 

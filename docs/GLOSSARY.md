@@ -22,9 +22,13 @@ Host command telling an SSD that LBAs are unused. Apple SSDs TRIM by default. Af
 
 Parent-project full-file verification of 0728 byte ranges against raw APFS and GAI partition bytes (allocated, slack, unallocated). The APFS unallocated prototype found **158** distinct files / **~60 MiB** — not Extra Found Files. [Carving claim](HAYES_CARVING_CLAIM.md).
 
-## APFS / APFS* / MPOLO / HAYES / TODD
+## APFS / APFS* / Hayes’s APFS / MPOLO / TODD
 
-Bootable SanDisk family after Carbon Copy Cloner snapshots **5 Jan 2021**. **HAYES** working copies split to **MPOLO** (Jun 2021, Marco Polo) and **APFS*** (Jun 2022 imgc to this author). Not 0728.
+**APFS*** is the compressed image file `RHB_Boot.imgc`. Hayes sent it **directly** to this author over a **MEGA link on 13 June 2022**, the date stamped on the file (acquisition name `CJH20220613`). It is **not** a USB stick delivered to the author.
+
+When that image is decompressed and analyzed, this encyclopedia calls it **APFS** or **Hayes’s APFS** (PostgreSQL source 1). The bytes inside are a CCC-expanded copy that once lived on a SanDisk Extreme; that describes **imaged media**, not the delivery channel.
+
+**MPOLO** is Marco Polo’s claimed June 2021 Hayes **bootable laptop** — a different, reduced copy. **TODD** is the Sanders/Trimarco bootable hypothesis upstream of Hayes. None of these is 0728.
 
 ## Burst
 
@@ -48,7 +52,7 @@ R-Studio mode that dumps signature hits into type folders. The English folder na
 
 ## MEGA
 
-Cloud transfer used for the August 2021 0728 share and the June 2022 APFS image.
+Cloud transfer used for the August 2021 0728 share (Hayes → Ziegler → author) and for **APFS*** (`RHB_Boot.imgc`, Hayes → author **13 June 2022**).
 
 ## R-00014
 
