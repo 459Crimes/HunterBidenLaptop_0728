@@ -1,0 +1,44 @@
+# Integrity (unknown-origin hashes, carving, referral)
+
+> **Hatnote.** What 0728 reporting shows about **source mix**. Laptop-derived media (JPMI/APFS/GAI as filesystems) are **not** accused of hacking in the sibling JPMI encyclopedia. Unknown-origin **files** relative to those catalogs live **here**.
+
+## Bounded finding
+
+> **0728 is a mixed bag.** Exact SHA-256 matches tie **70.2%** of its hashes to at least one of APFS, GAI, or JPMI. **29.8%** (**94,635** hashes) match none of those three. Hayes’s unallocated-only carve story is **not independently confirmed**. Unexplained hashes are **not** a named intrusion.
+
+“No named origin” ≠ “proved hacked.” “Matched APFS” ≠ “copied from the June 2022 SanDisk.”
+
+## Where this sits next to JPMI
+
+The JPMI encyclopedia attributes **no hacking** to JPMI or other **laptop-derived media**, and points at 0728 as the separate corpus that contains unknown-origin blobs. This encyclopedia **is** that corpus. It does not reverse the JPMI finding. It **localizes** the open attribution problem.
+
+## Three layers
+
+### 1. This repository’s overlap tables
+
+`build/hash_manifest/04_coverage.tsv` — APFS 205,262; GAI 194,936; JPMI 82,186; union 222,684; complement 94,635.
+
+### 2. Hayes’s method claim
+
+R-00014 carving language. Missing logs. Mix of allocated-file hashes inside 0728. [Carving claim](HAYES_CARVING_CLAIM.md).
+
+### 3. Author FBI referral (28 July 2026)
+
+DeGiovanni referred 0728 as **potentially hacked**. That is **project identity / advocacy**, citing stripped names and unmatched bytes. It is not an FBI conclusion and not a row in `04_coverage.tsv`.
+
+## Frequent confusions
+
+**“Most files hash-match the laptop, so 0728 is just the laptop.”**  
+Most *hashes* match. A large *byte* remainder and 94,635 hashes do not. Synthetic names hide which is which until you join.
+
+**“Unmatched hashes are iCloud hacks.”**  
+Not established. Hypotheses include other copies not indexed, carver false positives, transcodes, truncated objects, and true external origin.
+
+**“CBS said the laptop was clean, so 0728 is clean.”**  
+CBS examined a Mac Isaac/FBI **exact-copy** lineage (JPMI family), not Extra Found Files.
+
+## See also
+
+- [Scope](SCOPE.md)
+- [Limits](07_limits_and_open_questions.md)
+- [Author](AUTHOR.md)

@@ -1,0 +1,6 @@
+primary_source	matching_hashes
+APFS (source 1)	205262
+GAI (source 116)	194936
+JPMI (source 122)	82186
+any of APFS/GAI/JPMI	222684
+none of APFS/GAI/JPMI	94635

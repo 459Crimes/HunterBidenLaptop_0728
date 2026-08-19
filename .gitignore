@@ -1,0 +1,9 @@
+# Operator-only: scripts, hooks, deployment notes, agent working files.
+# Not published on GitHub.
+.local-use-only/
+
+# Full per-file hash dumps and other local analysis products.
+build/deep/
+__pycache__/
+*.pyc
+.DS_Store

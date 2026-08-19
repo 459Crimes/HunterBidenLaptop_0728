@@ -1,0 +1,13 @@
+flowchart TB
+  s2["0728 distinct SHA-256<br/>317,319"]
+  any["match APFS ∪ GAI ∪ JPMI<br/>222,684  (70.2%)"]
+  none["match none of those three<br/>94,635  (29.8%)"]
+  apfs["APFS  205,262"]
+  gai["GAI  194,936"]
+  jpmi["JPMI  82,186"]
+
+  s2 --> any
+  s2 --> none
+  any --> apfs
+  any --> gai
+  any --> jpmi

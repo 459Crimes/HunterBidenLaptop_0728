@@ -1,0 +1,21 @@
+field	value
+corpus	0728 Extra Found Files
+postgresql_source_id	2
+postgresql_source_name	0728 Extra Files
+filesystem_path	source/recovered/
+uri_scheme	0728://
+tree_kind	R-Studio Known File Types recovery/export (not a disk image)
+canonical_path_count	480039
+extra_found_files_paths	479584
+root_paths	422
+voice_memo_paths	33
+distinct_sha256	317319
+logical_bytes	336321196441
+logical_gib	313.21
+delivery_channel	MEGA
+stamp_local	2021-07-28
+burst_utc	2021-07-29 04:19:09 – 04:46:08
+immediate_provider_to_author	Garrett Ziegler (August 2021 MEGA)
+alleged_upstream	Conan James Hayes
+hayes_method_claim	carved from unallocated / deleted space (R-00014, 2024-04-17)
+source_bytes_in_this_repo	no

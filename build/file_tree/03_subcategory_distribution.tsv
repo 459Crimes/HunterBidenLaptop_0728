@@ -1,0 +1,72 @@
+category	subcategory	path_count	distinct_sha256	logical_bytes
+Document	Text Document	272702	199203	4744713550
+Graphics, Picture	JPEG Image	62991	30213	6337978414
+Internet related files	Apple Safari Web Archive	43090	29020	98845718116
+Graphics, Picture	PNG Image	32335	13529	6319277875
+Graphics, Picture	JPEG Digital Camera	28289	13465	26739468264
+Internet related files	XML Document	17806	15553	267071461
+Document	Unicode Document	4691	3215	135250190
+Multimedia Video	MP4 File	4668	2828	103967253907
+Document	Adobe PDF Document	3935	2616	2331608841
+Archive	GZip Archive	1747	1654	47853329
+Multimedia Video	VP6 encoded Video	1323	1276	42365640100
+Graphics, Picture	GIF Image	823	371	185533973
+Graphics, Picture	Macintosh Paint Image	823	651	930917591
+Graphics, Picture	Tagged Image Format File	631	411	208824559
+Graphics, Picture	Windows cursor	581	581	353182720
+Archive	ZIP Archive	550	413	7660451887
+Internet related files	HTML Document	474	426	12830645
+Development files	C$C++ Source Code	420	312	9768370
+Archive	TAR Archive	294	294	12143432704
+Executable, Library, DLL	Windows DLL	241	141	199027712
+Document	Microsoft Word 2007 XML Document	140	72	9318035
+Executable, Library, DLL	Java Bytecode	140	91	1298400768
+Multimedia Audio	AIFF Sound	107	107	45273088
+Font	TrueType Font	88	47	5323911168
+Multimedia	RIFF Multimedia File	81	19	109540010
+Internet related files	E-Mail Message	69	69	1620225
+Archive	BZip2 Archive	51	17	686623232
+Graphics, Picture	Windows Icon	51	32	11180032
+Document Spreadsheet	Microsoft Excel 2007 XML Document	48	24	827114
+Document	Microsoft Word Document	48	20	3942912
+Multimedia Audio	MPEG Layer III Audio	41	36	2536645344
+Executable, Library, DLL	UEFI Executable	34	7	128512
+Font	OpenType Font	33	31	1773332
+Executable, Library, DLL	Shell Script	25	10	345711
+Graphics, Picture	SGI Image	20	17	11344384
+Archive	StuffIt Archive	20	20	1358949888
+Graphics, Picture	DICOM medical Image	17	7	301804544
+Graphics, Picture	GEM VDI Image	13	13	793777152
+Multimedia Audio	Windows WAVE Sound	13	12	3493616
+Disk images	VirtualBox Virtual Disk	12	12	1235828736
+Archive	CPIO Archive	9	9	456167424
+Executable, Library, DLL	Windows Executable	9	6	460800
+Graphics, Picture	Windows Bitmap Image	9	2	496446
+Archive	Android Package	8	5	54953009
+Document	Rich Text Document	7	6	3755734
+Multimedia Audio	Next$Sun uLaw Sound	6	6	1781760
+Multimedia Video	QuickTime Video	6	6	9387520
+Other files	Windows Color Profile	6	6	48542208
+Graphics, Picture	Canon (CR2) RAW image	5	5	89604
+Multimedia Audio	Monkeys Audio	5	5	24933888
+Other files	Microsoft Security Catalog	5	5	16751
+Executable, Library, DLL	ELF Executable (UNIX)	4	4	33947648
+Development files	Library	4	4	196608
+Executable, Library, DLL	ELF Module (UNIX)	4	4	123392
+Document	OLE Storage	3	1	24576
+Executable, Library, DLL	DOS Style Executable	3	3	414720
+Document	Microsoft PowerPoint 2007 XML Document	3	2	9895740
+Development files	COM Type library	3	3	23552
+Graphics, Picture	Agfa$Matrix Scodl Image	3	3	108029952
+Graphics, Picture	RAW Digital Camera Image	2	2	3804
+Graphics, Picture	AutoCAD Drawing	2	2	3049984
+Archive	xz Archive	2	2	4947309
+Archive	iOS Package	2	2	1287336
+Other files	Windows Minidump	2	2	1716224
+Multimedia Video	3GPP multimedia audio,video	1	1	772779
+Graphics, Picture	Dr. Halo palette	1	1	1503668736
+Graphics, Picture	Hotspot Image	1	1	1225216
+Archive	LHA$LHarc Archive	1	1	455680
+Document Spreadsheet	Apple iWork Numbers Document	1	1	114460
+Document	PostScript Document	1	1	88666
+Archive	AIN Archive	1	1	15436288

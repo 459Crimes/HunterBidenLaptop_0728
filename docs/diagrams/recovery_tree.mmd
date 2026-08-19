@@ -1,0 +1,21 @@
+flowchart TB
+  root["0728://  480,039 paths"]
+  eff["Extra Found Files  479,584"]
+  rt["Root  422"]
+  vm["Voice Memos  33"]
+  doc["Document  281,530"]
+  gfx["Graphics, Picture  126,597"]
+  net["Internet related files  61,439"]
+  vid["Multimedia Video  5,998"]
+  arc["Archive  2,685"]
+  oth["other R-Studio buckets"]
+
+  root --> eff
+  root --> rt
+  root --> vm
+  eff --> doc
+  eff --> gfx
+  eff --> net
+  eff --> vid
+  eff --> arc
+  eff --> oth

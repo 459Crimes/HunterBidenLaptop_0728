@@ -1,0 +1,29 @@
+# 9. Source matrix
+
+> **Encyclopedia.** Reading list: [Bibliography](BIBLIOGRAPHY.md). Style classes: [Sourcing](MANUAL_OF_STYLE.md).
+
+Each row is a **claim** used in the articles, the **class**, and the **source**. Inventory claims cite `build/` files.
+
+| Claim | Class | Source |
+|---|---|---|
+| 0728 canonical inventory is 480,039 paths, 317,319 SHA-256, 336,321,196,441 bytes | Direct 0728 | `build/corpus_info/01_acquisition.tsv`; PG `files` source 2, `0728/%` |
+| Extra Found Files / Root / Voice Memos = 479584 / 422 / 33 | Direct 0728 | `build/file_tree/01_top_level_summary.tsv` |
+| Category and extension rollups as published | Direct 0728 | `build/file_tree/02_*.tsv`, `build/metadata/02_extension_distribution.tsv` |
+| 205,262 hashes match APFS; 194,936 GAI; 82,186 JPMI; 222,684 any; 94,635 none | Direct 0728 + comparative | `build/hash_manifest/04_coverage.tsv` |
+| Vs all other indexed sources: 234,436 match, 82,883 exclusive (26.1%) | Comparative (broader) | Parent `SOURCE_OVERLAP_0728_REPORT.md` (2026-07-10) |
+| ~177,488 paths in UTC burst 2021-07-29 04:19:09–04:46:08 | Direct 0728 | Parent four-primary-sources note; mtime year 2021 in `01_time_distribution.tsv` |
+| Immediate MEGA provider is Ziegler, Aug 2021 | Author collection | [Author](AUTHOR.md); parent `docs/PROVENANCE.md` |
+| Ziegler attributed Extra Files to Hayes | Participant (Ziegler) | Same |
+| Hayes carved Extra Files from unallocated space | Participant (Hayes) | R-00014 transcript 00:20:29–00:24:33 |
+| Hayes self-reported Homeland / Backpage FBI help | Participant (Hayes) | R-00014 00:25:07–00:25:46 |
+| Hayes described a California van, warrant, powered-off phone | Participant (Hayes) | R-00014 00:01:49–00:08:13 |
+| FD-597 2022-09-13 names CONAN HAYES, black iPhone, Received From | Photographed federal form | `docs/exhibits/fbi/fd597_2022-09-13_conan_hayes_iphone.jpeg` |
+| SA Calum Ramm, Dallas; `cwramm@fbi.gov` | Photographed federal form | Ramm card + handwritten email exhibits |
+| Warrant excerpt authorizes biometric unlock of Hayes cellphone | Photographed excerpt | `hayes_cellphone_biometric_warrant_excerpt.jpeg` |
+| Mesa County: Hayes used Wood’s badge, imaged elections server | Court-recited | *People v. Peters*, Colo. App. 24CA1951; trial journalism |
+| Informant theory excluded; prosecutor recited FBI “never an informant” | Court / journalism | CPR 2024-08-01; appellate ¶89 |
+| Author FBI referral 28 Jul 2026 on 0728 as potentially hacked | Project identity | [Author](AUTHOR.md) |
+| 0728 is not a clone of JPMI/APFS/GAI | Interpretation of overlap | Coverage TSV: both matches and misses exist |
+| Sep 2022 phone event more likely Mesa County than Trump-call | Inference | Date coincidence with Lindell seizure; incomplete warrant file |
+
+Rows that are **inference** must not be restated in the lead as fact.

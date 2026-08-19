@@ -1,0 +1,14 @@
+category	path_count	distinct_sha256	logical_bytes
+Document	281530	205136	7238598244
+Graphics, Picture	126597	59306	43809853250
+Internet related files	61439	45068	99127240447
+Multimedia Video	5998	4111	146343054306
+Archive	2685	2418	22430558086
+Executable, Library, DLL	460	266	1532849263
+Development files	427	319	9988530
+Multimedia Audio	172	166	2612127696
+Font	121	78	5325684500
+Multimedia	81	19	109540010
+Document Spreadsheet	49	25	941574
+Other files	13	13	50275183
+Disk images	12	12	1235828736

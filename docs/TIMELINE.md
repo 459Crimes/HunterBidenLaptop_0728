@@ -1,0 +1,19 @@
+# Timeline (index)
+
+Compact event list. Narrative: [06](06_timeline_and_handling.md).
+
+| When | Event |
+|---|---|
+| 2019-04-12/13 | Mac Shop recovery (laptop universe; not 0728) |
+| 2019-12-09 | FBI shop subpoena |
+| 2021-05 | Mesa County trusted build; Hayes images elections server |
+| 2021-06 | Marco Polo MPOLO bootable (claimed) |
+| **2021-07-28/29** | **0728 materialization burst** |
+| 2021-08 | Ziegler MEGA → author |
+| 2022-06-13/22 | Hayes MEGA APFS* → author |
+| 2022-08-08 | Mar-a-Lago search (public) |
+| **2022-09-13** | **FD-597 Hayes iPhone; Lindell phone same day** |
+| **2024-04-17** | **R-00014 carving call** |
+| 2024-08 | Peters trial; informant theory excluded |
+| 2026 | Working-copy mtimes on ~267k 0728 paths |
+| 2026-07-28 | Author FBI 0728 referral |
