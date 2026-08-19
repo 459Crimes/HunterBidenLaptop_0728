@@ -16,11 +16,15 @@ Wood testified he did not authorize Hayes to use the badge and was not at the tr
 
 Appellate opinion: *People v. Peters*, Colo. App. No. **24CA1951** (summary published April 2026), https://www.coloradojudicial.gov/system/files/opinions-2026-04/24CA1951-PD.pdf — trusted-build facts ¶¶11–14; excluded informant-belief evidence ¶89.
 
-## Informant defense (excluded)
+## Informant defense (excluded at trial; discussed here)
 
-Defense attorney Daniel Hartman argued Peters believed Hayes was a governmental informant and concealed his identity. Judge Matthew Barrett kept it from the jury. DA Dan Rubinstein told the court the **FBI confirmed Hayes never was an informant**. CPR, Colorado Sun, Colorado Newsline, and Seattle Times reported the fight in August 2024.
+This encyclopedia’s **origin frame** for Extra Found Files is the same cover story Peters’s lawyers later wrote down: Hayes needed his identity concealed because he claimed to be a **federal informant who helped take down Backpage** and was hunted by cartels. Full treatment: [Informant theory](INFORMANT_THEORY.md).
 
-R-00014’s Homeland/Backpage self-description does **not** fill that gap.
+Closest **primary filing** located (not a standalone Hayes-signed affidavit): Peters, *Motion for Bond Pending Appeal*, 17 Nov 2024 — https://tinapeters.us/wp-content/uploads/2024/12/11-17-2024-Motion-for-Bond-on-Appeal.pdf
+
+Defense attorney Daniel Hartman argued Peters believed Hayes was a governmental informant. Judge Matthew Barrett kept it from the jury. DA Dan Rubinstein told the court the **FBI confirmed Hayes never was an informant**. CPR, Colorado Sun, Colorado Newsline, and Seattle Times reported the fight in August 2024.
+
+R-00014’s Homeland/Backpage self-description is **Hayes in his own voice** on the same motif. It does **not** convert the FBI denial into a CHS file.
 
 ## Relation to 0728
 
@@ -31,5 +35,6 @@ Do not write “0728 came from Mesa County.” The inventories do not say that.
 ## See also
 
 - [Conan Hayes](CONAN_HAYES.md)
+- [Informant theory](INFORMANT_THEORY.md)
 - [Phone seizure](PHONE_SEIZURE.md)
 - [Bibliography](BIBLIOGRAPHY.md)

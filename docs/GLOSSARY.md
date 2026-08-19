@@ -53,3 +53,11 @@ Placeholder basename assigned by recovery software (`0442396.jpg`, `img_WxHxD_�
 ## Source bytes
 
 The Extra Found Files objects under `source/recovered/`. Not in this GitHub tree.
+
+## Trick / circular custody
+
+Repeating recovery vocabulary (Ziegler iCloud/thumbnails; Byrne “the trick”; author “hack not involving the laptop”; Hayes unallocated carve). Graded lead, not a closed hash loop. [Circular custody](CIRCULAR_CUSTODY.md).
+
+## Unmatched hash
+
+A 0728 SHA-256 absent from indexed APFS, GAI, **and** JPMI. **94,635** such fingerprints. [Unmatched hashes](UNMATCHED_HASHES.md).

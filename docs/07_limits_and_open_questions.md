@@ -18,9 +18,11 @@ This encyclopedia **does not** establish:
 - the make, serial, or hash of the volume scanned in July 2021;
 - that the scan was unallocated-only;
 - a named origin for the 94,635 primary-exclusive hashes;
-- registered informant status;
+- registered informant status (Backpage / federal-protection story is discussed, not proved);
 - a causal link from a Trump call to the iPhone FD-597;
-- byte identity between Ziegler’s MEGA folder and Hayes’s private working set (no MEGA logs).
+- byte identity between Ziegler’s MEGA folder and Hayes’s private working set (no MEGA logs);
+- that Byrne’s ~400,000-file cache is the same SHA-256 set as 0728;
+- that Ziegler’s recalled iCloud/thumbnail “trick” is a reproduced mechanism;
 
 ## Open records
 
@@ -29,6 +31,8 @@ This encyclopedia **does not** establish:
 | R-Studio project / log / settings | Would identify input disk, scan type, known-file-types set |
 | Source-volume serial and pre-scan hash | Would pin the medium |
 | MEGA account / transfer logs | Would pin who uploaded, when, from where |
+| Byrne native Extra Files inventory | Would test the Locals possession claim against 0728 hashes |
+| Native Ziegler message re iCloud/thumbnails | Would promote UAS to authenticated participant evidence |
 | Complete FBI warrant packet (Sep 2022) | Would pin investigative file number and target |
 | Side-by-side MEGA vs current tree hash | Would prove the August 2021 download equals today’s inventory |
 
@@ -39,4 +43,6 @@ This encyclopedia **does not** establish:
 ## See also
 
 - [How to verify](08_reproducibility.md)
+- [Circular custody](CIRCULAR_CUSTODY.md)
+- [Informant theory](INFORMANT_THEORY.md)
 - [Source matrix](09_source_matrix.md)

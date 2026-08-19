@@ -1,0 +1,32 @@
+# R-00014 public excerpts only
+# Full recording/transcript are operator-only (.local-use-only/exhibits/audio/).
+# Speakers: A = Conan Hayes; B = Marc DeGiovanni.
+# Scope: Trump / Mar-a-Lago; Extra Files carving; FBI / Backpage. Nothing else.
+
+## Clip 1 — Trump / Mar-a-Lago / California van
+
+[00:01:49] Speaker A: Yeah, not, um, it was weird because it was literally, um, I talked to, um, I talked to Trump and, and, uh, it was, it was days, like a few days before, uh, Mar-a-Lago got raided. And he said that he, he sensed that somebody around him was, um, essentially, you know, spying on him and fucking feeding, you know, the other side the info. And he wanted me to weed him out.
+[00:02:35] Speaker A: Then he got— he got— gets raided at Mar-a-Lago and Uh, a week— not— I don't even know if it was a week. A week later, um, I got pulled over and then all of a sudden a bunch of cars pull up and like some random van— they put me in like a super random van, um, and wanted my phone. They had a search warrant. They wanted me to open it, but I was like, let me check out the search warrant real quick. Um, and I watched the guy turn my phone off and then back on. Um, so the only way is the physical password, but the search warrant only stated biometrics. So by turning off my phone and turning it back on, there were no biometrics.
+[00:05:13] Speaker B: Did they take the phone or did they give it back?
+[00:05:16] Speaker A: They, they did, but it was useless. Like, they weren't going to get into it.
+[00:05:22] Speaker B: Interesting. Um, yeah, so, and this was in California or this was elsewhere?
+[00:05:30] Speaker A: Yeah, California.
+[00:06:41] Speaker A: …that guy, he tried to say he was out of Austin, but he was really out of DC. So it was like field office, obviously, you know, tracking it. 100% had to do with the phone call with Trump.
+
+## Clip 2 — Extra Files / 0728 origin
+
+[00:20:00] Speaker B: we've now been doing dedupes against the laptop, and there are files, there are photos that we ended up publishing in the report that are not found on the laptop. Um, you had, uh, given us a directory of some, some files that you called extra files. Do you remember that?
+[00:20:29] Speaker A: Yeah, those, those I, I carved from, uh, like they were deleted and I brought them back to life.
+[00:20:39] Speaker B: Gotcha. Um, could that be reproduced on the laptop, or does it require an extra source?
+[00:20:51] Speaker A: Um, well, you would need the— like, you mean if you only had the laptop, would you be able to— I'd have to I'd have to look at that.
+[00:22:36] Speaker B: Yeah, yeah. No, no, I, I was told back in August '21 how that kind of was done. I mean, it was G's version of relaying what you had told them, so I'm sure there was something lost in translation, but I kind of get that there's some extracurricular field work.
+[00:22:55] Speaker A: Yeah, I, I essentially carved, you know, the, the white space, which when you delete a file, it never goes away entirely. It goes to, you know, it's like a no man's land. There's not a— there's no assigned, uh, destination. Like, there's no directory you know, or file structure to it. So it just kind of floats in the unallocated space.
+[00:23:25] Speaker B: Well, that's always— I've always been curious about that because it was a 256GB SSD that the laptop was originally on.
+[00:23:37] Speaker A: Yeah, but there— but it's still partitioned, um, and like the those files, like, there, there's a lot of like compression involved too. So when you bring them back up, you, you can get, um, extra space there. It wasn't maxed out at 256 either, right?
+[00:23:59] Speaker B: It was about 220, 230.
+[00:24:03] Speaker A: Yeah, so there, there's a bit extra there. And then, you know, when, when they're in the unallocated space, it's a different partition. Um, so I'll, I'll, I'll look at the file structure exactly, but, um, I, I just have to refresh my memory on exactly, you know, what was sitting over there. But it, it'll, it'll grow in size when you bring it back up.
+
+## Clip 3 — Homeland / FBI / Backpage
+
+[00:25:07] Speaker A: Yeah, I kind of don't think they really want to fuck with me a little bit, you know. Oh, and, you know, like before the election I was working for Homeland, so, you know, I think they know who I am. I've worked, you know, like I helped FBI on Backpage case. Like, I come in and out. Like, I'm not associated or affiliated, but if they want to take down, like, child predators, I— in the past, I had no problem helping them.
+[00:25:49] Speaker A: Yeah, that was before it was completely politicized. And, you know, I, I just— it's gross what it's become, but Beyond that, day one, Biden shut down the, I mean, literally 80% of the budget for the border, which was what I was getting paid through from Homeland. He removed 80% of the budget. So they had to cancel the contract.

@@ -39,10 +39,11 @@ Marco Polo v4 used **MPOLO + 0728**. It did **not** analyze JPMI. See [Marco Pol
 
 ## America Project adjacency
 
-Trimarco / Sanders / Hayes / Byrne is **network context** for how a bootable copy could have reached Hayes before June 2022. It is not a bill of lading for Extra Found Files.
+Trimarco / [Sanders](TODD_SANDERS.md) / Hayes / [Byrne](PATRICK_BYRNE.md) is **network context** for how a bootable copy could have reached Hayes before June 2022. It is not a bill of lading for Extra Found Files. [Circular custody](CIRCULAR_CUSTODY.md).
 
 ## See also
 
 - [Scope](SCOPE.md)
+- [Unmatched hashes](UNMATCHED_HASHES.md)
 - [Diagrams](diagrams/README.md)
 - JPMI encyclopedia `docs/COPY_LINEAGES.md` (sibling repo)

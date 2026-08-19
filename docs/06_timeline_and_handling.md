@@ -18,7 +18,9 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 **28 July 2021 (local) / 29 July 2021 04:19:09–04:46:08 UTC.** 0728 tree materializes. ~**177,488** paths in a ~27-minute window; ~**105,654** distinct hashes; ~281 GB one-size-per-hash; category-ordered write bands (Archive through Multimedia Video). Direct 0728 reporting. This **is** the 0728 event.
 
-**August 2021.** Ziegler MEGA URL → DeGiovanni download. Author collection record. Hayes-as-upstream is Ziegler’s attribution.
+**August 2021.** Ziegler MEGA URL → DeGiovanni download. Author collection record. Hayes-as-upstream is Ziegler’s attribution. Author recollection: Ziegler said Hayes **tricked iCloud using laptop thumbnails** (UAS). [Circular custody](CIRCULAR_CUSTODY.md).
+
+**8 April 2022.** Byrne Locals livestream: ~400,000 deleted files; “**the trick** you’ve got to do to recover the hidden files.” Author (@MAXXISCOPOLIS): “hack **not involving the laptop**”; screenshot of Extra Found Files (**473,580** files, created 5 Aug 2021). [Patrick Byrne](PATRICK_BYRNE.md).
 
 **12 July 2021 (nearby public bound).** Peter Schweizer said GAI had “a copy … of the laptop.” That bounds **GAI possession**, not 0728 identity.
 
@@ -32,7 +34,7 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 ## 2024 — recorded method claim; Peters trial
 
-**17 April 2024 (~12:49 Costa Rica).** R-00014. Hayes describes Extra Files as deleted data carved from unallocated space; self-reports Homeland/Backpage FBI help; describes the California van / biometric warrant / powered-off phone. Audio exhibit.
+**17 April 2024 (~12:49 Costa Rica).** R-00014 **excerpts published**: Extra Files carved from unallocated space; Homeland/Backpage FBI help; Trump / Mar-a-Lago / California van. [R-00014](R00014_CALL.md).
 
 **August 2024.** *People v. Peters* trial. Informant theory excluded; FBI denial of informant status as recited by the prosecutor. Journalism + later appellate opinion.
 

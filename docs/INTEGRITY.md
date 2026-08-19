@@ -37,6 +37,12 @@ Not established. Hypotheses include other copies not indexed, carver false posit
 **“CBS said the laptop was clean, so 0728 is clean.”**  
 CBS examined a Mac Isaac/FBI **exact-copy** lineage (JPMI family), not Extra Found Files.
 
+## How the remainder was measured
+
+Compare every distinct 0728 SHA-256 to indexed **APFS (source 1)**, **GAI (116)**, and **JPMI (122)**. A hit is **exact bytes**. A miss is the unmatched set. Unpacking APFS archives, iPhone backups, and Mail barely moves the miss pile. Non-technical write-up: [Unmatched hashes](UNMATCHED_HASHES.md). Teaching set: [23-image exhibit](TWENTY_THREE_IMAGES.md). Clocks: [July 28 burst](JULY_28_BURST.md). Names: [Stripped names](STRIPPED_NAMES.md).
+
+The FBI-referral **analysis** (not the PDF) is rewritten into those articles. Human-side hypotheses that belong with the remainder: [Informant theory](INFORMANT_THEORY.md) · [Circular custody](CIRCULAR_CUSTODY.md).
+
 ## See also
 
 - [Scope](SCOPE.md)

@@ -1,8 +1,6 @@
 # Article index
 
-This directory is the **0728 encyclopedia**: the full record of the Extra Found Files corpus associated with Conan James Hayes — what it contains, how it moved, and what its metadata and hashes do and do not establish.
-
-Landing page: [README](../README.md). Tables: [Evidence catalog](catalog/README.md).
+This directory is the **0728 encyclopedia**: Extra Found Files, Conan James Hayes, unmatched hashes, and the people who moved laptop copies. Landing page: [README](../README.md). Tables: [Evidence catalog](catalog/README.md).
 
 ## Portal
 
@@ -10,15 +8,19 @@ Landing page: [README](../README.md). Tables: [Evidence catalog](catalog/README.
 |---|---|
 | A one-page definition | [What is 0728?](01_what_is_0728.md) |
 | Who / what / when / where / why / how | [Provenance — 5 Ws](02_provenance_5ws.md) |
-| The custody story as a chain | [Chain of custody](03_chain_of_custody.md) |
+| The custody story as a chain | [Chain of custody](03_chain_of_custody.md) · [Circular custody](CIRCULAR_CUSTODY.md) |
 | The full sourced chronology | [Timeline and handling](06_timeline_and_handling.md) · [Timeline index](TIMELINE.md) |
 | Who wrote this encyclopedia | [Author](AUTHOR.md) |
-| Who the people are (Hayes, Ziegler, Sanders, Ramm, Peters) | [People](PEOPLE.md) |
-| Conan James Hayes | [Conan Hayes](CONAN_HAYES.md) |
-| The 17 Apr 2024 recorded call | [R-00014](R00014_CALL.md) |
+| Who the people are | [People](PEOPLE.md) |
+| Conan James Hayes (bio + 0728 role) | [Conan Hayes](CONAN_HAYES.md) |
+| Informant / Backpage / identity-concealment | [Informant theory](INFORMANT_THEORY.md) · [Tina Peters](TINA_PETERS.md) |
+| R-00014 excerpts (Trump, carving, FBI) | [R-00014](R00014_CALL.md) |
 | FBI iPhone FD-597 / Calum Ramm | [Phone seizure](PHONE_SEIZURE.md) |
-| Mesa County / Tina Peters | [Tina Peters](TINA_PETERS.md) |
-| Signed photos, audio, warrant excerpt | [Exhibits](EXHIBITS.md) · [exhibits catalog](catalog/exhibits.md) |
+| Patrick Byrne / Todd Sanders / Jack Maxey / Garrett Ziegler | [Byrne](PATRICK_BYRNE.md) · [Sanders](TODD_SANDERS.md) · [Maxey](JACK_MAXEY.md) · [Ziegler](GARRETT_ZIEGLER.md) |
+| Hashes with no match in GAI, APFS, or JPMI | [Unmatched hashes](UNMATCHED_HASHES.md) · [23-image exhibit](TWENTY_THREE_IMAGES.md) |
+| July 28, 2021 dump | [July 28 burst](JULY_28_BURST.md) · [Stripped names](STRIPPED_NAMES.md) |
+| Why Marco Polo lacked the iPhone password | [iPhone backup password](IPHONE_BACKUP_PASSWORD.md) |
+| Signed photos, audio clips, Locals stills | [Exhibits](EXHIBITS.md) · [exhibits catalog](catalog/exhibits.md) |
 | How the MEGA share reached this author | [MEGA delivery](MEGA_DELIVERY.md) |
 | R-Studio category folders and synthetic names | [R-Studio tree](R_STUDIO.md) |
 | Hayes’s unallocated-carve statement | [Carving claim](HAYES_CARVING_CLAIM.md) |
@@ -56,13 +58,13 @@ Landing page: [README](../README.md). Tables: [Evidence catalog](catalog/README.
 | [Hash manifest](catalog/hash_manifest.md) | SHA-256 overlap vs APFS / GAI / JPMI |
 | [Metadata](catalog/metadata.md) | Extension and mtime-year summaries |
 | [Reports](catalog/reports.md) | Generated forensic summaries |
-| [Exhibits](catalog/exhibits.md) | R-00014 audio, FBI document photos |
+| [Exhibits](catalog/exhibits.md) | R-00014 clips, FBI document photos, Locals stills |
 
 ## Categories
 
-- **Provenance:** 02, 03, 06, 09, PEOPLE, AUTHOR, CONAN_HAYES, MEGA_DELIVERY, TINA_PETERS, PHONE_SEIZURE, R00014_CALL, EXHIBITS, COPY_LINEAGES
+- **Provenance:** 02, 03, 06, 09, PEOPLE, AUTHOR, CONAN_HAYES, PATRICK_BYRNE, TODD_SANDERS, JACK_MAXEY, GARRETT_ZIEGLER, MEGA_DELIVERY, TINA_PETERS, INFORMANT_THEORY, CIRCULAR_CUSTODY, PHONE_SEIZURE, R00014_CALL, EXHIBITS, COPY_LINEAGES, IPHONE_BACKUP_PASSWORD
 - **Diagrams:** [diagrams/](diagrams/README.md)
-- **Storage objects:** R_STUDIO, HAYES_CARVING_CLAIM
-- **Contents:** 04, CONTENTS_CENSUS, 05, GLOSSARY, TIMESTAMPS
+- **Storage objects:** R_STUDIO, HAYES_CARVING_CLAIM, STRIPPED_NAMES, JULY_28_BURST
+- **Contents:** 04, CONTENTS_CENSUS, 05, GLOSSARY, TIMESTAMPS, UNMATCHED_HASHES, TWENTY_THREE_IMAGES
 - **Integrity:** INTEGRITY, 07, SCOPE
 - **Method:** 08, catalog/, MANUAL_OF_STYLE, SCOPE

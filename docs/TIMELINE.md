@@ -9,7 +9,8 @@ Compact event list. Narrative: [06](06_timeline_and_handling.md).
 | 2021-05 | Mesa County trusted build; Hayes images elections server |
 | 2021-06 | Marco Polo MPOLO bootable (claimed) |
 | **2021-07-28/29** | **0728 materialization burst** |
-| 2021-08 | Ziegler MEGA → author |
+| 2021-08 | Ziegler MEGA → author; recalled iCloud/thumbnail “trick” |
+| **2022-04-08** | **Byrne Locals: 400k files / “the trick”; author Extra Found Files screenshot** |
 | 2022-06-13/22 | Hayes MEGA APFS* → author |
 | 2022-08-08 | Mar-a-Lago search (public) |
 | **2022-09-13** | **FD-597 Hayes iPhone; Lindell phone same day** |

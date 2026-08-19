@@ -8,5 +8,7 @@ Canonical **Mermaid** sources for this encyclopedia.
 | [hayes_custody.mmd](hayes_custody.mmd) | Ziegler MEGA hop, Hayes attribution, APFS* later |
 | [recovery_tree.mmd](recovery_tree.mmd) | Extra Found Files category layout |
 | [hash_overlap.mmd](hash_overlap.mmd) | SHA-256 join vs three primaries |
+| [circular_custody.mmd](circular_custody.mmd) | Ziegler / author / Byrne / Hayes “trick” loop |
+| [july28_burst.mmd](july28_burst.mmd) | 27-minute Extra Found Files dump |
 
 Landing page: [README](../../README.md). Article index: [INDEX](../INDEX.md).

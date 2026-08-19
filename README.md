@@ -29,7 +29,10 @@ This GitHub repository is an **encyclopedia of that corpus**. It publishes tree 
 | The custody story | [Chain of custody](docs/03_chain_of_custody.md) · [MEGA delivery](docs/MEGA_DELIVERY.md) |
 | What is in the tree | [What is in the corpus](docs/04_what_is_in_the_corpus.md) · [Contents census](docs/CONTENTS_CENSUS.md) |
 | Conan James Hayes | [Conan Hayes](docs/CONAN_HAYES.md) · [People](docs/PEOPLE.md) |
-| The recorded call | [R-00014 (17 Apr 2024)](docs/R00014_CALL.md) |
+| The recorded call (three excerpts) | [R-00014 (17 Apr 2024)](docs/R00014_CALL.md) |
+| Informant / Backpage / identity cover | [Informant theory](docs/INFORMANT_THEORY.md) |
+| Files with no GAI / APFS / JPMI hash | [Unmatched hashes](docs/UNMATCHED_HASHES.md) · [July 28 burst](docs/JULY_28_BURST.md) |
+| Ziegler · Byrne · “the trick” | [Circular custody](docs/CIRCULAR_CUSTODY.md) |
 | Dates and later handling | [Timeline](docs/TIMELINE.md) · [Integrity](docs/INTEGRITY.md) |
 | Every article | [Article index](docs/INDEX.md) |
 | The TSV / report files | **[Evidence catalog](docs/catalog/README.md)** |
@@ -41,7 +44,7 @@ The 0728 reporting shows a **signature-recovery export**: R-Studio-style categor
 
 It does **not** presently show a tool log, source-volume hash, or byte-offset map that would independently prove Hayes’s statement that the tree was carved only from unallocated space of the currently indexed APFS image.
 
-> **0728 is not a clone of JPMI, APFS, or GAI.** Shared hashes prove shared content identity. Exclusive hashes are unexplained relative to those three catalogs. Unexplained ≠ named external origin.
+> **0728 is not a clone of JPMI, APFS, or GAI.** Shared hashes prove shared content identity. **94,635** hashes (29.8%) match **none** of those three catalogs. Unexplained ≠ named external origin. The unmatched remainder, stripped names, and 27-minute dump are this encyclopedia’s integrity problem. [Unmatched hashes](docs/UNMATCHED_HASHES.md).
 
 Row-level overlap: [hash catalog](docs/catalog/hash_manifest.md) (`04_coverage.tsv`). Method claim: [Hayes carving claim](docs/HAYES_CARVING_CLAIM.md).
 
@@ -77,10 +80,11 @@ Full sourced narrative: [Timeline and handling](docs/06_timeline_and_handling.md
 | **May 2021** | Mesa County trusted build: Hayes used Gerald Wood’s badge; imaged elections server. | Court-recited |
 | **Jun 2021** | Marco Polo claimed receipt of a Hayes **bootable laptop** (**MPOLO**). Separate from 0728. | Marco Polo v4 |
 | **28–29 Jul 2021** | 0728 tree materialized (local stamp 28 Jul; UTC burst ~27 min). | Direct 0728 mtime / burst analysis |
-| **Aug 2021** | Author downloaded the MEGA share from **Ziegler**. | Author collection record |
+| **Aug 2021** | Author downloaded the MEGA share from **Ziegler**; Ziegler attributed Hayes and (author recollection) described an iCloud/thumbnail “trick”. | Author collection · [Circular custody](docs/CIRCULAR_CUSTODY.md) |
 | **13 Jun / 22 Jun 2022** | Hayes sent this author the APFS image (`RHB_Boot.imgc`) via MEGA. **Not 0728.** | Author receipt |
 | **13 Sep 2022** | FBI Form **FD-597**: Hayes black iPhone “Received From”; SA **Calum Ramm** (Dallas). | Photographed FBI form — [Exhibits](docs/EXHIBITS.md) |
-| **17 Apr 2024** | Recorded call **R-00014**: Hayes describes carving Extra Files from unallocated space. | Audio exhibit |
+| **8 Apr 2022** | Byrne Locals: ~400k “deleted” files; “**the trick**”; author screenshot of Extra Found Files (473,580) and “hack **not involving the laptop**”. | Archived stream + chat · [Byrne](docs/PATRICK_BYRNE.md) |
+| **17 Apr 2024** | Recorded call **R-00014** (excerpts): Trump/Mar-a-Lago; Extra Files carving; FBI/Backpage. | Audio exhibit |
 | **Aug 2024** | Tina Peters trial; informant theory excluded; prosecutor said FBI confirmed Hayes was never an informant. | Court / contemporaneous journalism |
 | **28 Jul 2026** | Author FBI referral on 0728 as potentially hacked. | Project identity — [Author](docs/AUTHOR.md) |
 
@@ -135,7 +139,7 @@ Court-recited Mesa County facts, Hayes’s later technical account, 0728-interna
 8. [How to verify](docs/08_reproducibility.md)
 9. [Source matrix](docs/09_source_matrix.md)
 
-**Companions:** [Author](docs/AUTHOR.md) · [People](docs/PEOPLE.md) · [Conan Hayes](docs/CONAN_HAYES.md) · [R-00014 call](docs/R00014_CALL.md) · [Phone seizure](docs/PHONE_SEIZURE.md) · [Tina Peters](docs/TINA_PETERS.md) · [Exhibits](docs/EXHIBITS.md) · [MEGA delivery](docs/MEGA_DELIVERY.md) · [R-Studio tree](docs/R_STUDIO.md) · [Carving claim](docs/HAYES_CARVING_CLAIM.md) · [Copy lineages](docs/COPY_LINEAGES.md) · [Diagrams](docs/diagrams/README.md) · [Timestamps](docs/TIMESTAMPS.md) · [Integrity](docs/INTEGRITY.md) · [Glossary](docs/GLOSSARY.md) · **[full index](docs/INDEX.md)**
+**Companions:** [Author](docs/AUTHOR.md) · [People](docs/PEOPLE.md) · [Conan Hayes](docs/CONAN_HAYES.md) · [Informant theory](docs/INFORMANT_THEORY.md) · [Patrick Byrne](docs/PATRICK_BYRNE.md) · [Todd Sanders](docs/TODD_SANDERS.md) · [Jack Maxey](docs/JACK_MAXEY.md) · [Garrett Ziegler](docs/GARRETT_ZIEGLER.md) · [Circular custody](docs/CIRCULAR_CUSTODY.md) · [Unmatched hashes](docs/UNMATCHED_HASHES.md) · [July 28 burst](docs/JULY_28_BURST.md) · [iPhone backup password](docs/IPHONE_BACKUP_PASSWORD.md) · [R-00014 call](docs/R00014_CALL.md) · [Phone seizure](docs/PHONE_SEIZURE.md) · [Tina Peters](docs/TINA_PETERS.md) · [Exhibits](docs/EXHIBITS.md) · [MEGA delivery](docs/MEGA_DELIVERY.md) · [R-Studio tree](docs/R_STUDIO.md) · [Carving claim](docs/HAYES_CARVING_CLAIM.md) · [Copy lineages](docs/COPY_LINEAGES.md) · [Diagrams](docs/diagrams/README.md) · [Timestamps](docs/TIMESTAMPS.md) · [Integrity](docs/INTEGRITY.md) · [Glossary](docs/GLOSSARY.md) · **[full index](docs/INDEX.md)**
 
 ---
 

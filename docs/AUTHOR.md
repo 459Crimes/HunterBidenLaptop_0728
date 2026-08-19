@@ -19,7 +19,9 @@ Both URLs are cited. Phone numbers, home addresses, and other personal identifie
 
 - DeGiovanni was a **member of Marco Polo**, working with **Garrett Ziegler** from **May 2021**.
 - He **pushed Ziegler to move off election-fraud investigations and onto the Biden laptop**.
-- He was the **first person to download the 0728 Extra Found Files** corpus from the **MEGA** share Ziegler provided (August 2021). Ziegler attributed the files to **Conan Hayes**. Hayes later described the recovery method on **R-00014**.
+- He was the **first person to download the 0728 Extra Found Files** corpus from the **MEGA** share Ziegler provided (August 2021). Ziegler attributed the files to **Conan Hayes** and, in the author’s recollection, said Hayes had **used laptop thumbnails to trick iCloud into giving up higher-resolution files** ([Circular custody](CIRCULAR_CUSTODY.md); that wording is **UAS**).
+- On **8 April 2022**, as **@MAXXISCOPOLIS** on Patrick Byrne’s Locals stream, he posted that the deleted data came from a **hack not involving the laptop**, and posted a screenshot of the already-held `Extra_Found_Files` tree (**473,580** files, created **5 Aug 2021**). Byrne, on the same stream, used the word **“trick.”** [Patrick Byrne](PATRICK_BYRNE.md).
+- Hayes later described the recovery method on **R-00014**. The MPOLO stick Marco Polo used **lacked keychain vaults**; the iPhone-backup password came from Hayes’s fuller copy. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
 Marco Polo’s published *Report on the Biden Laptop* used Hayes’s **bootable laptop** (**MPOLO**, Jun 2021) **plus 0728** as a sidecar set. It did **not** analyze the JPMI copy. The author’s later **APFS*** image is **Jun 2022**, sent by Hayes. See [Marco Polo](MARCO_POLO.md).
 
@@ -55,4 +57,5 @@ That referral is **author advocacy**, not an FBI finding, and not a substitute f
 - [Scope](SCOPE.md)
 - [Copy lineages](COPY_LINEAGES.md)
 - [People](PEOPLE.md)
+- [Circular custody](CIRCULAR_CUSTODY.md)
 - [Bibliography](BIBLIOGRAPHY.md)

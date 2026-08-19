@@ -24,7 +24,10 @@ Hayes may have run a Known File Types scan against **some** laptop-lineage copy 
 
 Parent-project burst synthesis: **8,946** hashes in the July 2021 burst sit in JPMI∩0728 but not APFS/GAI, mapping overwhelmingly to Photos Library **proxy derivatives**. That is a custody constraint on “Hayes only had the APFS image later sent to the author.”
 
+Kitchen-table rewrite of the unmatched remainder and the 27-minute dump: [Unmatched hashes](UNMATCHED_HASHES.md) · [July 28 burst](JULY_28_BURST.md) · [Stripped names](STRIPPED_NAMES.md).
+
 ## See also
 
 - [Limits](07_limits_and_open_questions.md)
 - [Copy lineages](COPY_LINEAGES.md)
+- [Informant theory](INFORMANT_THEORY.md)

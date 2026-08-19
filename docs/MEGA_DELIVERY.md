@@ -19,9 +19,10 @@ MEGA is a **transfer channel**. It is not a filesystem, not R-Studio, and not pr
 
 ## Jack Maxey / Patrick Byrne (downstream holders)
 
-Parent-project research treats Byrne and Maxey as downstream “extra files” holders in the America Project orbit. Maxey’s public **~450 GB** remarks (April 2022) may conflate a 500 GB-class **drive** with carved **file mass**. Those are **leads**, not 0728 path rows.
+Parent-project research treats Byrne and Maxey as downstream “extra files” holders in the America Project orbit. Maxey’s public **~450 GB** remarks (April 2022) may conflate a 500 GB-class **drive** with carved **file mass**. Those are **leads**, not 0728 path rows. [Patrick Byrne](PATRICK_BYRNE.md) · [Jack Maxey](JACK_MAXEY.md) · [Circular custody](CIRCULAR_CUSTODY.md).
 
 ## See also
 
 - [Author](AUTHOR.md)
+- [Garrett Ziegler](GARRETT_ZIEGLER.md)
 - [Copy lineages](COPY_LINEAGES.md)

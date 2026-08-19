@@ -1,0 +1,12 @@
+flowchart LR
+  t0["2021-07-29 04:19:09 UTC"]
+  t1["04:46:08 UTC"]
+  b1["batch 1  7k paths"]
+  b2["batch 2  125k paths"]
+  b3["batches 3-8  mixed"]
+  pile["177,488 paths / 105,654 hashes<br/>stripped names, type folders"]
+
+  t0 --> b1 --> b2 --> b3 --> t1
+  b1 --> pile
+  b2 --> pile
+  b3 --> pile

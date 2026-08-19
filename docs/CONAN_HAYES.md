@@ -1,65 +1,47 @@
 # Conan James Hayes
 
-> **Hatnote.** Public-record and project-held record of the person attached to 0728. This is **not** a SHA-256 table. Method claim: [Carving claim](HAYES_CARVING_CLAIM.md). Call: [R-00014](R00014_CALL.md). FBI iPhone: [Phone seizure](PHONE_SEIZURE.md). Mesa County: [Tina Peters](TINA_PETERS.md).
+> **Hatnote.** Human center of the 0728 story. Informant claim: [Informant theory](INFORMANT_THEORY.md). Call excerpts: [R-00014](R00014_CALL.md). Mesa County: [Tina Peters](TINA_PETERS.md).
 
-**Conan James Hayes** is the person this encyclopedia treats as the **human center of the 0728 Extra Found Files story**, the way John Paul Mac Isaac is the human center of the JPMI copy-lineage encyclopedia.
+**Conan James Hayes** (also billed as **C. James Hayes**) is a former professional surfer, co-founder of the clothing brand **RVCA**, and the person this encyclopedia treats as the **alleged producer** of Extra Found Files and the **direct MEGA provider** of the June 2022 APFS image.
 
-That parallel is a **narrative structure**, not a claim that Hayes occupied the same forensic role as a repair-shop custodian. Mac Isaac recovered a Mac home in April 2019 and made preservation copies. Hayes is the alleged **upstream producer** of a **July 2021 recovery-export tree** and the **direct MEGA provider** of a **June 2022 APFS image**.
+## Biography (public record)
 
-## Why Hayes is in the lead
+| Item | Recorded value | Source class |
+|---|---|---|
+| Born | 1975, Seattle; raised Kona, Hawai‘i from age eight | Journalism / Encyclopedia of Surfing (via [GJ Sentinel](https://www.gjsentinel.com/news/western_colorado/the-former-pro-surfer-at-the-heart-of-the-peters-case/article_b365a8a8-568a-11ef-8e34-cba735066202.html), [LegalClarity](https://legalclarity.org/conan-hayes-from-rvca-co-founder-to-election-scandal/)) |
+| Surfing | Amateur Hawai‘i titles 1986–1990; World Championship Tour; career-high ~12th (1996); goofyfoot, “Momentum Generation” cohort | Same |
+| RVCA | Co-founded with Pat Tenore (~1999–2001); Billabong acquisition ~2010; Hayes equity payout reported ~$7.5 million | Surf press ([Stab](https://stabmag.com/elsewhere/all-eyes-on-rvca-co-founder-conan-hayes-as-partner-in-crime-tina-peters-convicted-in-election-computer-breach/), [Surfer](https://www.surfer.com/news/momentum-diaspora-conan-hayes)) |
+| After RVCA | Children’s-toy / sporting-goods work; low public profile ([Surfer, 2012](https://www.surfer.com/news/momentum-diaspora-conan-hayes)) | Journalism |
+| Later self-description | “Data expert” / “white-hat” in Byrne’s telling | [Byrne](PATRICK_BYRNE.md) |
 
-Three independent attachments put him on the 0728 page:
+These labels identify the person. They are **not** 0728 filesystem facts.
 
-1. **Delivery attribution.** Garrett Ziegler provided this author a MEGA folder in August 2021 and attributed Extra Found Files to Hayes.
-2. **Method claim.** On **17 April 2024**, Hayes told this author he **carved** those files from **deleted / unallocated space** ([R-00014](R00014_CALL.md)).
-3. **Separate laptop-lineage act.** On **13 June 2022** (author receipt **22 June 2022**), Hayes sent this author `RHB_Boot.imgc` — the APFS* bootable image. That is **not** 0728, but it is the same person handing this project a different object.
+## Online / forum record
 
-None of those three, alone, proves who operated the R-Studio session, on which volume, with which settings.
+Hayes operated a high-visibility Twitter account **@We_Have_Risen** (now deleted). Reporting describes QAnon-era posting from 2017–2018, Antrim County (Michigan) “expert witness” work as **C. James Hayes**, sharing of election-system images, and Arizona-audit adjacency with Cyber Ninjas / Doug Logan ([Daily Beast / Yahoo](https://www.yahoo.com/news/former-pro-surfer-rcva-founder-154937354.html), [Arizona Mirror](https://azmirror.com/2021/09/08/conan-hayes-the-former-pro-surfer-and-stop-the-steal-supporter-connected-to-the-arizona-audit/), [The Inertia](https://www.theinertia.com/news/report-former-pro-surfer-conan-hayes-accused-of-sharing-sensitive-election-documents/)). Mesa County leaked images carried examiner initials **`cjh`**.
 
-## Public biographical labels (journalism, not 0728 tables)
+This encyclopedia cites those outlets as **contemporaneous journalism and forum-adjacent reporting**, not as hash tables. X/Twitter archives of @We_Have_Risen are incomplete because the account was deactivated.
 
-Contemporaneous reporting around the Tina Peters trial described Hayes as a **retired professional surfer**, **co-founder of RVCA**, and an associate of **Douglas Frank** and the **Patrick Byrne** election-litigation network. Those labels are useful for **identification**. They do not appear in `build/file_tree`.
+## Why he is on the 0728 page
+
+1. **Ziegler attribution** — Extra Found Files MEGA share, August 2021.
+2. **Method claim** — R-00014 carving language, April 2024.
+3. **Direct APFS*** — `RHB_Boot.imgc`, June 2022, to this author.
+4. **iPhone-backup password** — Hayes’s copy retained the macOS **keychain vault** that Marco Polo’s bootable lacked. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
+5. **Informant / cover-identity story** — the same Backpage/federal-protection narrative appears in Peters’s court filings **and** on R-00014. That story is the **political and operational context** for asking whether 0728 is only a laptop carve. [Informant theory](INFORMANT_THEORY.md).
 
 ## Mesa County (May 2021)
 
-Colorado’s trial and appellate recitation: during Mesa County’s May 2021 Dominion “trusted build,” **Tina Peters** obtained a security badge for IT consultant **Gerald Wood**; deputy **Belinda Knisley** passed it; **Hayes**, introduced as Wood, accessed the secure area and made a **forensic image** of the elections server.
+Hayes used Gerald Wood’s badge at the trusted build, imaged the elections server, FaceTimed [Patrick Byrne](PATRICK_BYRNE.md) (Byrne’s public admission; NYT/Daily Beast). A Mesa County arrest affidavit (Sandra Brown) identified Hayes by phone and flight records; Bishop’s card paid the hotel; a county-paid package went to Hayes’s Agoura Hills, California address after he flew out 26 May 2021 ([Denver Gazette](https://www.denvergazette.com/2022/07/12/mystery-man-identified-in-alleged-mesa-county-election-breach-d9ea7cd8-dbd2-577a-a714-56843f666b3e/)).
 
-That event is **court-recited**. It is **not** a description of Extra Found Files. It is in this encyclopedia because it is the strongest public forensic-imaging act attached to Hayes’s name, and because the **13 September 2022** iPhone custody event is chronologically closer to the **Mesa County / Lindell** federal investigation than to an uncorroborated Trump-call theory. See [Tina Peters](TINA_PETERS.md) and [Phone seizure](PHONE_SEIZURE.md).
+**No criminal charge against Hayes** is recorded in the sources used here. Peters was convicted; Hayes was not called as a witness.
 
-## Government-informant dispute
+## Project-held statements
 
-Peters’s defense argued she believed Hayes was a **government informant** and concealed his identity for that reason. The trial judge excluded the theory. The prosecutor told the court the **FBI confirmed Hayes was never an informant**. The Colorado Court of Appeals later described the excluded “alleged belief that Hayes was a governmental informant.”
-
-Separately, on R-00014 Hayes **self-reported** prior **Homeland** contract work and informal help to the **FBI on the Backpage case** (“I come in and out… I’m not associated or affiliated”). That is a **participant account**. It does not corroborate registered CHS status, election work, or the 0728 carving claim.
-
-Documented FBI **property receipt** and a **biometric-warrant excerpt** (September 2022) show **contact and custody**, not informant registry. [Phone seizure](PHONE_SEIZURE.md).
-
-## What Hayes said about Extra Files
-
-Verbatim, R-00014:
-
-> “Yeah, those, those I, I carved from, uh, like they were deleted and I brought them back to life.” — **00:20:29**
-
-> “I essentially carved … the white space … there’s no directory or file structure to it. So it just kind of floats in the unallocated space.” — **00:22:55**
-
-> “When they're in the unallocated space, it's a different partition. … I'll have to refresh my memory on exactly what was sitting over there.” — **00:24:03**
-
-Limitation: no contemporaneous carving log, R-Studio project file, source-volume serial, or offset map is in this repository. Follow-up chats in the parent project were elusive; Hayes later stopped answering. See [Carving claim](HAYES_CARVING_CLAIM.md).
-
-## What 0728 itself shows about that claim
-
-Observed:
-
-- The tree matches **R-Studio Known File Types** output (category buckets, synthetic names). Unallocated carving *can* produce that shape.
-- **205,262** of **317,319** distinct hashes also exist on the indexed **APFS** live file inventory — i.e. on **allocated** laptop-lineage files, not only “white space.”
-- **94,635** hashes match **none** of APFS, GAI, or JPMI.
-- A **~27-minute** category-ordered write burst on **29 July 2021 UTC** proves fast **materialization** of a finished or finishing tree. It does not distinguish live carving from copying a completed export.
-
-Interpretation: the present record is **consistent with a recovery-tool export** and **not independently confirmatory** of “carved only from unallocated space of the June 2022 APFS image.”
+On R-00014 Hayes claimed Homeland contract work, informal FBI help on **Backpage**, a Trump conversation, and unallocated carving of Extra Files. Photographed FBI FD-597 (13 Sep 2022) documents an iPhone custody event, not CHS status.
 
 ## See also
 
 - [People](PEOPLE.md)
-- [Chain of custody](03_chain_of_custody.md)
-- [Integrity](INTEGRITY.md)
+- [July 28 burst](JULY_28_BURST.md)
 - [Bibliography](BIBLIOGRAPHY.md)

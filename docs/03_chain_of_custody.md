@@ -39,7 +39,7 @@ Those events explain **other corpora**. Putting them on the 0728 chain as if the
 
 Parent-project notes treat **Trimarco → Todd Sanders → Conan Hayes** as the best current **network** for APFS-lineage copies and for the *allegation* that Hayes produced Extra Files. America Project affiliation of Sanders is public-record **context**. It is **not** a shipping label on the July 2021 tree.
 
-No actor link is closed without transfer records or hash proof.
+No actor link is closed without transfer records or hash proof. The **repeating “trick / hack / carve” vocabulary** across Ziegler, the author, Byrne, and Hayes is a **graded circular-custody lead**, not a closed loop. [Circular custody](CIRCULAR_CUSTODY.md).
 
 ## FBI iPhone event (Hayes, not 0728 bytes)
 
@@ -49,4 +49,5 @@ On **13 September 2022** the FBI documented **Received From CONAN HAYES** a blac
 
 - [Limits](07_limits_and_open_questions.md)
 - [Copy lineages](COPY_LINEAGES.md)
+- [Unmatched hashes](UNMATCHED_HASHES.md)
 - [Source matrix](09_source_matrix.md)
