@@ -23,7 +23,7 @@ This directory is the **0728 encyclopedia**: Extra Found Files, Conan James Haye
 | Signed photos, audio clips, Locals stills | [Exhibits](EXHIBITS.md) · [exhibits catalog](catalog/exhibits.md) |
 | How the MEGA share reached this author | [MEGA delivery](MEGA_DELIVERY.md) |
 | R-Studio category folders and synthetic names | [R-Studio tree](R_STUDIO.md) |
-| Hayes’s unallocated-carve statement | [Carving claim](HAYES_CARVING_CLAIM.md) |
+| Hayes’s unallocated-carve statement (**rejected**) | [Carving claim](HAYES_CARVING_CLAIM.md) |
 | How 0728 sits next to JPMI / APFS / GAI | [Copy lineages](COPY_LINEAGES.md) · [Diagrams](diagrams/README.md) |
 | File populations | [What is in the corpus](04_what_is_in_the_corpus.md) · [Contents census](CONTENTS_CENSUS.md) · [file-tree catalog](catalog/file_tree.md) |
 | Recovery export vs disk image | [Recovery tree for non-experts](05_recovery_tree_for_non_experts.md) · [Glossary](GLOSSARY.md) |

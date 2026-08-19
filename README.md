@@ -2,7 +2,7 @@
 
 > This page is the **landing article** for the Extra Found Files corpus documented in this repository. Other laptop-data collections: [Scope](docs/SCOPE.md). How claims are labeled: [Sourcing and terminology](docs/MANUAL_OF_STYLE.md).
 
-The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the Hunter Biden laptop matter: a **recovery-tool export tree**, not a disk image, materialized around **28–29 July 2021**, delivered to this author in **August 2021** when **Garrett Ziegler** shared a **MEGA link that Hayes had given him**. Hayes later said, on a recorded call, that he **carved** the Extra Files from **deleted / unallocated space**. The author is the **first person known to download** from that link.
+The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the Hunter Biden laptop matter: a **recovery-tool export tree**, not a disk image, materialized around **28–29 July 2021**, delivered to this author in **August 2021** when **Garrett Ziegler** shared a **MEGA link that Hayes had given him**. Hayes later said, on a recorded call, that he **carved** the Extra Files from **deleted / unallocated space**. That account is **technically false** as the origin of the unmatched remainder: TRIM on the **256 GB NVMe**, Mac Isaac’s **file-aware** copy, and L3 scans of Hayes’s APFS and of GAI. The author is the **first person known to download** from that link. Takedown: [Hayes carving claim](docs/HAYES_CARVING_CLAIM.md).
 
 This GitHub repository is an **encyclopedia of that corpus**. It publishes tree identity, category inventories, SHA-256 overlap with other indexed sources, timestamps, and a sourced Hayes custody-and-method history. It does **not** publish the Extra Found Files bytes.
 
@@ -39,7 +39,7 @@ Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](ht
 | **Lineage** | Hayes-attributed MEGA recovery export (R-Studio Known File Types tree) |
 | **Stamp / burst** | 28 July 2021 local / **2021-07-29 04:19:09–04:46:08 UTC** (~27 minutes) |
 | **Immediate provider (to this author)** | Garrett Ziegler relayed Hayes’s MEGA link (August 2021) |
-| **Alleged upstream / method** | Conan James Hayes (MEGA host per Ziegler); carving claim on **R-00014** (17 April 2024) |
+| **Alleged upstream / method** | Conan James Hayes (MEGA host per Ziegler); R-00014 unallocated-carve claim **rejected** — [carving claim](docs/HAYES_CARVING_CLAIM.md) |
 | **First known download** | Marc Aaron DeGiovanni (August 2021) |
 | **Tree kind** | File-category folders + synthetic names — **not** a mounted Mac volume |
 | **PostgreSQL** | `rhb_forensics` source **2** (`0728 Extra Files`) |
@@ -62,6 +62,7 @@ Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](ht
 | The recorded call (three excerpts) | [R-00014 (17 Apr 2024)](docs/R00014_CALL.md) |
 | Informant / Backpage / identity cover | [Informant theory](docs/INFORMANT_THEORY.md) |
 | Files with no GAI / APFS / JPMI hash | [Unmatched hashes](docs/UNMATCHED_HASHES.md) · [July 28 burst](docs/JULY_28_BURST.md) |
+| Why Hayes’s unallocated-carve story fails | [Carving claim](docs/HAYES_CARVING_CLAIM.md) |
 | Ziegler · Byrne · “the trick” | [Circular custody](docs/CIRCULAR_CUSTODY.md) |
 | Dates and later handling | [Timeline](docs/TIMELINE.md) · [Integrity](docs/INTEGRITY.md) |
 | Every article | [Article index](docs/INDEX.md) |
@@ -72,7 +73,7 @@ Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](ht
 
 The 0728 reporting shows a **signature-recovery export**: R-Studio-style category folders, seven-digit placeholder names, a high-rate **July 2021** write burst, and a bag of blobs that **both matches and fails to match** the three primary laptop-lineage inventories (APFS, GAI, JPMI).
 
-It does **not** presently show a tool log, source-volume hash, or byte-offset map that would independently prove Hayes’s statement that the tree was carved only from unallocated space of the currently indexed APFS image.
+Hayes’s R-00014 claim that Extra Files were **deleted laptop bytes carved from unallocated / white space** does **not** survive: **TRIM** on the original **256 GB NVMe**; Mac Isaac’s **file-aware** copy (unallocated LBAs never left the laptop); L3 raw-surface scans of **Hayes’s own APFS image** and of **GAI** (HFS+ from **before** that APFS volume existed). R-Studio explains **stripped names**. It does not prove an unallocated source. [Hayes carving claim](docs/HAYES_CARVING_CLAIM.md).
 
 > **0728 is not a clone of JPMI, APFS, or GAI.** Shared hashes prove shared content identity. **94,635** hashes (29.8%) match **none** of those three catalogs. Unexplained ≠ named external origin. The unmatched remainder, stripped names, and 27-minute dump are this encyclopedia’s integrity problem. [Unmatched hashes](docs/UNMATCHED_HASHES.md).
 

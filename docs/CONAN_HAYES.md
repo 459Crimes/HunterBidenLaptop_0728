@@ -25,7 +25,7 @@ This encyclopedia cites those outlets as **contemporaneous journalism and forum-
 ## Why he is on the 0728 page
 
 1. **Alleged upstream MEGA host** — Hayes’s MEGA link for Extra Found Files; Ziegler received it and relayed it to this author (**August 2021**). Author is the **first person known to download** from that link.
-2. **Method claim** — R-00014 carving language, April 2024.
+2. **Method claim (rejected)** — R-00014 carving language, April 2024. Unallocated-space origin of Extra Files is **incompatible** with TRIM, file-aware copy, and L3. [Carving claim](HAYES_CARVING_CLAIM.md).
 3. **Direct APFS*** — `RHB_Boot.imgc`, June 2022, to this author.
 4. **iPhone-backup password** — Hayes’s copy retained the macOS **keychain vault** that Marco Polo’s bootable lacked. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 5. **Informant / cover-identity story** — the same Backpage/federal-protection narrative appears in Peters’s court filings **and** on R-00014. That story is the **political and operational context** for asking whether 0728 is only a laptop carve. [Informant theory](INFORMANT_THEORY.md).

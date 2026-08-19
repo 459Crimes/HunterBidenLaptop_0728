@@ -16,7 +16,7 @@ Each row is a **claim** used in the articles, the **class**, and the **source**.
 | Author is first person **known** to download from Hayes’s MEGA link | Author collection | Same |
 | Hayes hosted Extra Found Files on MEGA (per Ziegler) | Participant (Ziegler) | Same |
 | Ziegler attributed Extra Files to Hayes | Participant (Ziegler) | Same |
-| Hayes carved Extra Files from unallocated space | Participant (Hayes) | R-00014 transcript 00:20:29–00:24:33 |
+| Hayes carved Extra Files from unallocated space | Participant (Hayes) — **rejected as origin** | R-00014 00:20:29–00:24:33; rebuttal [carving claim](HAYES_CARVING_CLAIM.md) |
 | Hayes self-reported Homeland / Backpage FBI help | Participant (Hayes) | R-00014 00:25:07–00:25:46 |
 | Hayes described a California van, warrant, powered-off phone | Participant (Hayes) | R-00014 00:01:49–00:08:13 |
 | FD-597 2022-09-13 names CONAN HAYES, black iPhone, Received From | Photographed federal form | `docs/exhibits/fbi/fd597_2022-09-13_conan_hayes_iphone.jpeg` |

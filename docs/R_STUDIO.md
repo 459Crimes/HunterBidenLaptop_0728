@@ -28,7 +28,7 @@ It still does **not** distinguish:
 - live Known File Types scan writing Extra Found Files for the first time; versus
 - copying an already-finished Extra Found Files tree onto another disk.
 
-Both can produce a 27-minute category burst.
+Both can produce a 27-minute category burst. Neither proves the scanned region was **unallocated space**. Hayes’s unallocated-carve account is rejected on TRIM, file-aware copy, and L3 grounds. [Carving claim](HAYES_CARVING_CLAIM.md).
 
 ## See also
 

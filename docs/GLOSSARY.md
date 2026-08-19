@@ -12,7 +12,15 @@ Publisher. **Marc Aaron DeGiovanni**. See [Author](AUTHOR.md).
 
 ## Allocated / unallocated
 
-Allocated space belongs to live filesystem objects on a **volume**. 0728 is not that volume. Hayes used “unallocated” for deleted-file carving. APFS-matching hashes inside 0728 show many blobs also exist as **allocated** files on the indexed APFS tree.
+Allocated space belongs to live filesystem objects on a **volume**. 0728 is not that volume. Hayes used “unallocated” / “white space” for deleted-file carving on R-00014. That account fails TRIM, file-aware copy, and L3 tests. APFS-matching hashes inside 0728 show many blobs also exist as **allocated** files on the indexed APFS tree. [Carving claim](HAYES_CARVING_CLAIM.md).
+
+## TRIM / NVMe Deallocate
+
+Host command telling an SSD that LBAs are unused. Apple SSDs TRIM by default. After deallocate, reads typically return **zeros**. Carving zeros recovers nothing. The original laptop was a **256 GB NVMe**.
+
+## L3 (raw-surface / anchor sweep)
+
+Parent-project full-file verification of 0728 byte ranges against raw APFS and GAI partition bytes (allocated, slack, unallocated). The APFS unallocated prototype found **158** distinct files / **~60 MiB** — not Extra Found Files. [Carving claim](HAYES_CARVING_CLAIM.md).
 
 ## APFS / APFS* / MPOLO / HAYES / TODD
 

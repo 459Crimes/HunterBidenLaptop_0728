@@ -4,7 +4,7 @@
 
 ## Bounded finding
 
-> **0728 is a mixed bag.** Exact SHA-256 matches tie **70.2%** of its hashes to at least one of APFS, GAI, or JPMI. **29.8%** (**94,635** hashes) match none of those three. Hayes’s unallocated-only carve story is **not independently confirmed**. Unexplained hashes are **not** a named intrusion.
+> **0728 is a mixed bag.** Exact SHA-256 matches tie **70.2%** of its hashes to at least one of APFS, GAI, or JPMI. **29.8%** (**94,635** hashes) match none of those three. Hayes’s R-00014 story — that Extra Files were **deleted laptop bytes carved from unallocated / white space** — is **physically and forensically false** as the origin of that remainder (TRIM on the 256 GB NVMe; file-aware shop copy; L3 negatives on Hayes APFS and on pre-APFS GAI). Unexplained hashes are still **not** a named intrusion. Takedown: [Carving claim](HAYES_CARVING_CLAIM.md).
 
 “No named origin” ≠ “proved hacked.” “Matched APFS” ≠ “copied from the June 2022 SanDisk.”
 
@@ -18,9 +18,9 @@ The JPMI encyclopedia attributes **no hacking** to JPMI or other **laptop-derive
 
 `build/hash_manifest/04_coverage.tsv` — APFS 205,262; GAI 194,936; JPMI 82,186; union 222,684; complement 94,635.
 
-### 2. Hayes’s method claim
+### 2. Hayes’s method claim (rejected as origin)
 
-R-00014 carving language. Missing logs. Mix of allocated-file hashes inside 0728. [Carving claim](HAYES_CARVING_CLAIM.md).
+R-00014 carving language is on tape. It does **not** survive TRIM physics, the file-aware copy chain, capacity arithmetic, or L3 scans of the APFS image Hayes later sent and of GAI. Missing R-Studio project logs are consistent with that: there is no offset map from unmatched 0728 files into unallocated ranges of those disks. [Carving claim](HAYES_CARVING_CLAIM.md).
 
 ### 3. Author FBI referral (28 July 2026)
 

@@ -11,12 +11,12 @@ This encyclopedia **does** establish:
 - **70.2%** of hashes join APFS, GAI, or JPMI; **29.8%** join none of those three;
 - Ziegler relayed Hayes’s MEGA link to this author in August 2021; author is **first person known to download**;
 - Hayes claimed, on tape, that he carved Extra Files from unallocated space;
+- that claim is **incompatible** with TRIM on the 256 GB NVMe, with Mac Isaac’s file-aware copy, and with L3 scans of Hayes APFS and GAI — [carving claim](HAYES_CARVING_CLAIM.md);
 - FBI paperwork photographs show a 13 Sep 2022 iPhone custody event naming Hayes.
 
 This encyclopedia **does not** establish:
 
-- the make, serial, or hash of the volume scanned in July 2021;
-- that the scan was unallocated-only;
+- the make, serial, or hash of the **actual** volume R-Studio scanned in July 2021 (it was **not** unallocated space of the original NVMe or of Hayes’s later APFS / GAI in any substantial amount);
 - a named origin for the 94,635 primary-exclusive hashes;
 - registered informant status (Backpage / federal-protection story is discussed, not proved);
 - a causal link from a Trump call to the iPhone FD-597;

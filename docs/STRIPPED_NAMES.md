@@ -38,12 +38,12 @@ When a 0728 hash **does not match**, you cannot even point to “this used to be
 
 ## Why this is the 0728 problem
 
-Hayes said the files “float in unallocated space” with “no directory.” The tree **agrees** that directories were not preserved. The tree **disagrees** that everything is leftover free space: **205,262** hashes are allocated APFS files too.
+Hayes said the files “float in unallocated space” with “no directory.” The tree **agrees** that directories were not preserved **in the export**. That is Known File Types **output**. It is **not** proof the input was leftover free space: **205,262** hashes are allocated APFS files; L3 does not find a substantial unmatched payload in APFS or GAI unallocated; TRIM and the shop file-aware copy make original-NVMe unallocated a dead hypothesis. [Carving claim](HAYES_CARVING_CLAIM.md).
 
-So either:
+So:
 
-- the tool scanned **whole volumes** (allocated + free) and dumped everything into Extra Found Files; or
-- several jobs / media were **merged**; or
+- the tool scanned **already-named files** (and/or mixed jobs) and **stripped** the labels; or
+- several media were **merged** into one Extra Found Files tree; or
 - something else (cloud renditions, other copies) was poured in.
 
 The **stripped names hide which is which** until you fingerprint. That is why SHA-256 overlap is the spine of this encyclopedia. [Unmatched hashes](UNMATCHED_HASHES.md) · [July 28 burst](JULY_28_BURST.md).

@@ -61,6 +61,17 @@ Not a mystery second iPhone model. Unmatched **images** mostly use cameras **alr
 
 **Stripped names** are the recovery-tool’s fingerprint: `0442396.jpg`, `img_600x800x24_0424111.jpg`. Original Finder paths are gone. That is expected for Known File Types output. Combined with the July 28 **burst**, it means: someone poured a huge mixed bag into new folders in about **27 minutes**, throwing away the filing cabinet labels. [Stripped names](STRIPPED_NAMES.md).
 
+## Why “carved from unallocated” does not explain this pile
+
+Hayes’s R-00014 account is the **named competing story** for these 94,635 hashes. It fails on four independent technical grounds:
+
+1. **TRIM** on the original **256 GB NVMe** — deallocate returns zeros; carving zeros recovers nothing.
+2. **File-aware shop copy** — Mac Isaac copied allocated files to a store server; unallocated LBAs never entered the circulating copies.
+3. **L3 on Hayes’s APFS** — the disk he later sent this author does not hold a substantial unmatched payload in unallocated space (~60 MiB class residue in the unallocated prototype vs ~313 GiB of 0728).
+4. **L3 on GAI** — HFS+ lineage from **before** the 12 Dec 2020 APFS bootable volume existed; same absence of a substantial unallocated source.
+
+R-Studio **did** strip filenames. That is how Known File Types **writes**. It is not evidence the **input** was white space. [Carving claim](HAYES_CARVING_CLAIM.md).
+
 ## Author’s investigative reading (labeled)
 
 The FBI referral (28 Jul 2026) treated the unmatched + stripped + burst mix as a **substantial basis to investigate** unauthorized acquisition — not as a completed proof. This encyclopedia keeps that as **project identity**. [Integrity](INTEGRITY.md) · [Informant theory](INFORMANT_THEORY.md).

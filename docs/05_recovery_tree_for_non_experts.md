@@ -23,7 +23,7 @@ A **recovery export** is what happens when software *scans* media, recognizes fi
 
 When a JPEG is deleted on a spinning disk, the bytes often remain until overwritten. Tools search for JPEG headers in that leftover space **and** in allocated files. They dump each hit as a new file. They do not reconstruct Finder paths. They frequently **over-match** (calling a plist a “webarchive”) and **under-match** (truncated files).
 
-Hayes’s phrase “white space … no directory” is ordinary deleted-file talk. The **0728 tree still contains hundreds of thousands of hashes that also exist as allocated files** on APFS. Signature recovery of a *whole volume* (allocated + free) can produce that mix. A carve of *only* unallocated space on the *currently indexed* APFS image has not been shown to produce this tree. Parent-project unallocated searches are negative for many 0728-unique samples.
+Hayes’s phrase “white space … no directory” is **HDD folklore**, not Apple NVMe behavior after **TRIM**. The **0728 tree still contains hundreds of thousands of hashes that also exist as allocated files** on APFS. Signature recovery of a *folder of live files* produces the same stripped-name mix. A carve of *only* unallocated space on Hayes’s APFS image, or on GAI, has **not** produced this tree: L3 found only a **trivial** unallocated residue. Parent-project unallocated searches are negative for the unmatched remainder that this encyclopedia tracks. Full argument: [Carving claim](HAYES_CARVING_CLAIM.md).
 
 ## Collision suffixes and malformed names
 
