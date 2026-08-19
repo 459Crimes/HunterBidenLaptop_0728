@@ -16,12 +16,12 @@ R-Studio Known File Types export  (structure proven; operator/session not logged
 2021-07-28/29 materialization burst
         │
         ▼
-MEGA folder  ←  Garrett Ziegler  →  Marc Aaron DeGiovanni (Aug 2021)
+MEGA folder (Hayes link)  ←  Garrett Ziegler  →  Marc Aaron DeGiovanni (Aug 2021; first known download)
         ▲
-        └── alleged upstream: Conan James Hayes (Ziegler attribution + Hayes R-00014 method claim)
+        └── alleged upstream: Conan James Hayes (MEGA host per Ziegler; R-00014 method claim)
 ```
 
-**Confirmed to this project:** Ziegler as MEGA provider; author receipt in August 2021; subsequent hashing into `rhb_forensics` source 2; known-good 479,584-file twins on trusted SAS volumes.
+**Confirmed to this project:** Ziegler relayed Hayes’s MEGA link; author receipt in August 2021 (**first person known to download**); subsequent hashing into `rhb_forensics` source 2; known-good 479,584-file twins on trusted SAS volumes.
 
 **Attributed, not session-proved:** Hayes as the person who ran the recovery.
 

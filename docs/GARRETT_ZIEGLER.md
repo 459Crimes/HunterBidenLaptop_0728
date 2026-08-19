@@ -1,8 +1,8 @@
 # Garrett Ziegler / Marco Polo
 
-> **Hatnote.** Immediate MEGA provider of Extra Found Files. Bootable copy they analyzed: **MPOLO**, not the later APFS* image. Password: [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
+> **Hatnote.** Relayed **Hayes’s MEGA link** for Extra Found Files (August 2021). Bootable copy they analyzed: **MPOLO**, not the later APFS* image. Password: [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
-**Garrett Ziegler** is the founder of **Marco Polo** and the person who, in **August 2021**, sent **Marc Aaron DeGiovanni** a **MEGA** link to the Extra Found Files tree. That hop is the **confirmed** start of this project’s 0728 custody. [MEGA delivery](MEGA_DELIVERY.md) · [Author](AUTHOR.md).
+**Garrett Ziegler** is the founder of **Marco Polo** and the person who, in **August 2021**, relayed to **Marc Aaron DeGiovanni** a **MEGA** link to the Extra Found Files tree that **Hayes had given Ziegler**. That relay is the **confirmed** start of this project’s 0728 custody. Ziegler was **not** the alleged upstream host of the share. [MEGA delivery](MEGA_DELIVERY.md) · [Author](AUTHOR.md).
 
 ## What Ziegler attributed
 
@@ -37,7 +37,7 @@ Do not write “Marco Polo cracked the iPhone backup.” They did not, on the re
 
 ## Author’s role inside Marco Polo
 
-From **May 2021** DeGiovanni was a Marco Polo member, working with Ziegler, and pushed the group **off election-fraud work and onto the Biden laptop**. He was the **first downloader** of the Ziegler MEGA 0728 share. That is **author identification**, not Marco Polo’s hash table.
+From **May 2021** DeGiovanni was a Marco Polo member, working with Ziegler, and pushed the group **off election-fraud work and onto the Biden laptop**. He was the **first person known to download** from Hayes’s MEGA link after Ziegler shared it. That is **author identification**, not Marco Polo’s hash table.
 
 ## See also
 

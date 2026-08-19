@@ -4,7 +4,7 @@
 
 ## The one sentence
 
-> In **August 2021** Ziegler handed the author Extra Found Files and (the author recalls) said Hayes had **tricked iCloud with laptop thumbnails**. In **April 2022** the author posted a screenshot of that tree on Byrne’s Locals stream and wrote “**hack not involving the laptop**”; Byrne, on the same stream, said he had ~**400,000** recovered files and that the FBI might not have done “**the trick** you’ve got to do to recover the hidden files.” Hayes, in **April 2024**, said he **carved deleted files from unallocated space**. Those four statements are the **same allegation in four mouths**. Hash tables show 0728 is **not** a clone of JPMI/APFS/GAI. Together they **bolster the timeline**; they do **not** replace SHA-256.
+> In **August 2021** Ziegler shared **Hayes’s MEGA link** with the author (first person **known** to download) and (the author recalls) said Hayes had **tricked iCloud with laptop thumbnails**. In **April 2022** the author posted a screenshot of that tree on Byrne’s Locals stream and wrote “**hack not involving the laptop**”; Byrne, on the same stream, said he had ~**400,000** recovered files and that the FBI might not have done “**the trick** you’ve got to do to recover the hidden files.” Hayes, in **April 2024**, said he **carved deleted files from unallocated space**. Those four statements are the **same allegation in four mouths**. Hash tables show 0728 is **not** a clone of JPMI/APFS/GAI. Together they **bolster the timeline**; they do **not** replace SHA-256.
 
 ## Diagram
 
@@ -14,8 +14,8 @@ flowchart TB
     H[Conan Hayes<br/>alleged producer]
     Z[Garrett Ziegler]
     A[Author downloads MEGA]
-    H -.->|attribution| Z
-    Z -->|MEGA Extra Found Files| A
+    H -.->|MEGA link| Z
+    Z -->|relayed link| A
     Z -.->|"thumbnails / trick iCloud"<br/>UAS| A
   end
 
@@ -39,9 +39,9 @@ flowchart TB
 
 [Source file](diagrams/circular_custody.mmd).
 
-## Vertex A — Ziegler → author (August 2021)
+## Vertex A — Hayes → Ziegler → author (August 2021)
 
-**Established:** MEGA URL; first download in this project; Ziegler named Hayes as upstream.
+**Established:** Hayes’s MEGA link relayed by Ziegler; author download — **first person known** on that share; Ziegler named Hayes as upstream.
 
 **Attributed, not natively logged:** “used thumbnails to trick iCloud into giving up the higher resolutions.” Class: **participant recollection (author of Ziegler)**. [Garrett Ziegler](GARRETT_ZIEGLER.md).
 

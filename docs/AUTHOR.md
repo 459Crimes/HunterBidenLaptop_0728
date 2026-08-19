@@ -19,7 +19,7 @@ Both URLs are cited. Phone numbers, home addresses, and other personal identifie
 
 - DeGiovanni was a **member of Marco Polo**, working with **Garrett Ziegler** from **May 2021**.
 - He **pushed Ziegler to move off election-fraud investigations and onto the Biden laptop**.
-- He was the **first person to download the 0728 Extra Found Files** corpus from the **MEGA** share Ziegler provided (August 2021). Ziegler attributed the files to **Conan Hayes** and, in the author’s recollection, said Hayes had **used laptop thumbnails to trick iCloud into giving up higher-resolution files** ([Circular custody](CIRCULAR_CUSTODY.md); that wording is **UAS**).
+- He was the **first person known to download** the 0728 Extra Found Files corpus. The **MEGA link** originated with **Conan Hayes**; **Garrett Ziegler** shared it with him in **August 2021** (Ziegler did not create the share). Ziegler attributed the files to Hayes and, in the author’s recollection, said Hayes had **used laptop thumbnails to trick iCloud into giving up higher-resolution files** ([Circular custody](CIRCULAR_CUSTODY.md); that wording is **UAS**).
 - On **8 April 2022**, as **@MAXXISCOPOLIS** on Patrick Byrne’s Locals stream, he posted that the deleted data came from a **hack not involving the laptop**, and posted a screenshot of the already-held `Extra_Found_Files` tree (**473,580** files, created **5 Aug 2021**). Byrne, on the same stream, used the word **“trick.”** [Patrick Byrne](PATRICK_BYRNE.md).
 - Hayes later described the recovery method on **R-00014**. The MPOLO stick Marco Polo used **lacked keychain vaults**; the iPhone-backup password came from Hayes’s fuller copy. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
@@ -47,7 +47,7 @@ That referral is **author advocacy**, not an FBI finding, and not a substitute f
 
 | Holding | What it is in 459Crimes usage | In *this* GitHub encyclopedia |
 |---|---|---|
-| **0728 Extra Found Files** | Hayes-attributed MEGA share after 28 July 2021 | **Yes** — the object of this repo |
+| **0728 Extra Found Files** | Hayes’s MEGA link after 28 July 2021; relayed Hayes → Ziegler → author (Aug 2021) | **Yes** — the object of this repo |
 | **JPMI forensics** | Mac Isaac direct-copy lineage | Named for disambiguation; **not** analyzed here |
 | **APFS / APFS*** | Bootable SanDisk family; Hayes MEGA 13 Jun 2022 `RHB_Boot.imgc` | Out of scope except as a hash-join target |
 | **GAI** | Truncated HFS+ `hb.img` | Out of scope except as a hash-join target |

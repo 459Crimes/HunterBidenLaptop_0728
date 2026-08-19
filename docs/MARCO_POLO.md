@@ -10,7 +10,7 @@ It did **not** analyze the JPMI / Della Rocca / Sanders Crucial X6 reports.
 
 The MPOLO stick **lacked essential macOS system files, including password vaults**. Marco Polo / Ziegler **did not find the iPhone-backup password** on that copy. Hayes’s fuller working copy retained `login_renamed_1.keychain-db`. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
-DeGiovanni’s membership, his role pushing the group onto the laptop, and his first download of the Ziegler MEGA 0728 share are **author identification**. They do not make Marco Polo’s page counts into this repo’s `build/` tables.
+DeGiovanni’s membership, his role pushing the group onto the laptop, and his status as **first person known to download** from Hayes’s MEGA link (after Ziegler relayed it) are **author identification**. They do not make Marco Polo’s page counts into this repo’s `build/` tables.
 
 The June 2022 **APFS*** image Hayes sent this author is **later** than MPOLO’s claimed receipt and is a **descendant in the bootable family**, not Extra Found Files.
 

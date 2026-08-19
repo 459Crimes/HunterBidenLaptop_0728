@@ -35,7 +35,7 @@ During that stream the author posted:
 1. “Hunter's deleted data came from a **hack not involving the laptop**.” Byrne: “**No. Could be. I don't know.**”
 2. A screenshot of the author-held `Extra_Found_Files` **Properties**: **473,580 files**, folder created **5 Aug 2021**.
 
-Byrne did **not** independently display that tree. The screenshot is the author’s copy of files already received from [Ziegler](GARRETT_ZIEGLER.md) in August 2021. [Author](AUTHOR.md).
+Byrne did **not** independently display that tree. The screenshot is the author’s copy of files already received from **Hayes’s MEGA link** in August 2021 — relayed to the author by [Ziegler](GARRETT_ZIEGLER.md), who had received it from Hayes. The author is the **first person known to download** from that link. [Author](AUTHOR.md) · [MEGA delivery](MEGA_DELIVERY.md).
 
 ## Relation to 0728
 

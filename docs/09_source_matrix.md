@@ -12,7 +12,9 @@ Each row is a **claim** used in the articles, the **class**, and the **source**.
 | 205,262 hashes match APFS; 194,936 GAI; 82,186 JPMI; 222,684 any; 94,635 none | Direct 0728 + comparative | `build/hash_manifest/04_coverage.tsv` |
 | Vs all other indexed sources: 234,436 match, 82,883 exclusive (26.1%) | Comparative (broader) | Parent `SOURCE_OVERLAP_0728_REPORT.md` (2026-07-10) |
 | ~177,488 paths in UTC burst 2021-07-29 04:19:09–04:46:08 | Direct 0728 | Parent four-primary-sources note; mtime year 2021 in `01_time_distribution.tsv` |
-| Immediate MEGA provider is Ziegler, Aug 2021 | Author collection | [Author](AUTHOR.md); parent `docs/PROVENANCE.md` |
+| Ziegler relayed Hayes’s MEGA link to author, Aug 2021 | Author collection | [MEGA delivery](MEGA_DELIVERY.md); parent `docs/PROVENANCE.md` |
+| Author is first person **known** to download from Hayes’s MEGA link | Author collection | Same |
+| Hayes hosted Extra Found Files on MEGA (per Ziegler) | Participant (Ziegler) | Same |
 | Ziegler attributed Extra Files to Hayes | Participant (Ziegler) | Same |
 | Hayes carved Extra Files from unallocated space | Participant (Hayes) | R-00014 transcript 00:20:29–00:24:33 |
 | Hayes self-reported Homeland / Backpage FBI help | Participant (Hayes) | R-00014 00:25:07–00:25:46 |

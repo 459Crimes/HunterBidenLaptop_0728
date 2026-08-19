@@ -2,7 +2,7 @@
 
 > This page is the **landing article** for the Extra Found Files corpus documented in this repository. Other laptop-data collections: [Scope](docs/SCOPE.md). How claims are labeled: [Sourcing and terminology](docs/MANUAL_OF_STYLE.md).
 
-The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the Hunter Biden laptop matter: a **recovery-tool export tree**, not a disk image, materialized around **28–29 July 2021**, delivered to this author in **August 2021** via a **MEGA** link from **Garrett Ziegler**, who attributed the files to **Conan James Hayes**. Hayes later said, on a recorded call, that he **carved** the Extra Files from **deleted / unallocated space**.
+The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the Hunter Biden laptop matter: a **recovery-tool export tree**, not a disk image, materialized around **28–29 July 2021**, delivered to this author in **August 2021** when **Garrett Ziegler** shared a **MEGA link that Hayes had given him**. Hayes later said, on a recorded call, that he **carved** the Extra Files from **deleted / unallocated space**. The author is the **first person known to download** from that link.
 
 This GitHub repository is an **encyclopedia of that corpus**. It publishes tree identity, category inventories, SHA-256 overlap with other indexed sources, timestamps, and a sourced Hayes custody-and-method history. It does **not** publish the Extra Found Files bytes.
 
@@ -25,8 +25,9 @@ Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](ht
 |---|---|
 | **Lineage** | Hayes-attributed MEGA recovery export (R-Studio Known File Types tree) |
 | **Stamp / burst** | 28 July 2021 local / **2021-07-29 04:19:09–04:46:08 UTC** (~27 minutes) |
-| **Immediate provider** | Garrett Ziegler (MEGA, August 2021) |
-| **Alleged upstream / method** | Conan James Hayes; carving claim on **R-00014** (17 April 2024) |
+| **Immediate provider (to this author)** | Garrett Ziegler relayed Hayes’s MEGA link (August 2021) |
+| **Alleged upstream / method** | Conan James Hayes (MEGA host per Ziegler); carving claim on **R-00014** (17 April 2024) |
+| **First known download** | Marc Aaron DeGiovanni (August 2021) |
 | **Tree kind** | File-category folders + synthetic names — **not** a mounted Mac volume |
 | **PostgreSQL** | `rhb_forensics` source **2** (`0728 Extra Files`) |
 | **Canonical paths** | **480,039** under `0728://` — [file-tree catalog](docs/catalog/file_tree.md) |
@@ -95,7 +96,7 @@ Full sourced narrative: [Timeline and handling](docs/06_timeline_and_handling.md
 | **May 2021** | Mesa County trusted build: Hayes used Gerald Wood’s badge; imaged elections server. | Court-recited |
 | **Jun 2021** | Marco Polo claimed receipt of a Hayes **bootable laptop** (**MPOLO**). Separate from 0728. | Marco Polo v4 |
 | **28–29 Jul 2021** | 0728 tree materialized (local stamp 28 Jul; UTC burst ~27 min). | Direct 0728 mtime / burst analysis |
-| **Aug 2021** | Author downloaded the MEGA share from **Ziegler**; Ziegler attributed Hayes and (author recollection) described an iCloud/thumbnail “trick”. | Author collection · [Circular custody](docs/CIRCULAR_CUSTODY.md) |
+| **Aug 2021** | Ziegler shared **Hayes’s MEGA link** with the author; author is **first known downloader**; Ziegler attributed Hayes and (author recollection) described an iCloud/thumbnail “trick”. | Author collection · [MEGA delivery](docs/MEGA_DELIVERY.md) · [Circular custody](docs/CIRCULAR_CUSTODY.md) |
 | **13 Jun / 22 Jun 2022** | Hayes sent this author the APFS image (`RHB_Boot.imgc`) via MEGA. **Not 0728.** | Author receipt |
 | **13 Sep 2022** | FBI Form **FD-597**: Hayes black iPhone “Received From”; SA **Calum Ramm** (Dallas). | Photographed FBI form — [Exhibits](docs/EXHIBITS.md) |
 | **8 Apr 2022** | Byrne Locals: ~400k “deleted” files; “**the trick**”; author screenshot of Extra Found Files (473,580) and “hack **not involving the laptop**”. | Archived stream + chat · [Byrne](docs/PATRICK_BYRNE.md) |

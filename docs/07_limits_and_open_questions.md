@@ -9,7 +9,7 @@ This encyclopedia **does** establish:
 - 0728 is a recovery-export tree of **480,039** canonical paths and **317,319** distinct SHA-256 values;
 - the layout is R-Studio Known File Types, not a Mac home;
 - **70.2%** of hashes join APFS, GAI, or JPMI; **29.8%** join none of those three;
-- Ziegler MEGA-delivered the folder to this author in August 2021;
+- Ziegler relayed Hayes’s MEGA link to this author in August 2021; author is **first person known to download**;
 - Hayes claimed, on tape, that he carved Extra Files from unallocated space;
 - FBI paperwork photographs show a 13 Sep 2022 iPhone custody event naming Hayes.
 

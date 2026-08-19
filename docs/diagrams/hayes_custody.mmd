@@ -1,16 +1,17 @@
 flowchart LR
   unknown["Unknown scan target<br/>Jul 2021"]
   rstudio["R-Studio Known File Types<br/>Extra Found Files tree"]
-  mega["MEGA folder"]
-  ziegler["Garrett Ziegler"]
-  author["Marc Aaron DeGiovanni<br/>Aug 2021 download"]
-  hayes["Conan James Hayes<br/>alleged upstream + R-00014 method"]
+  mega["MEGA folder<br/>Hayes link"]
+  hayes["Conan James Hayes<br/>alleged MEGA host"]
+  ziegler["Garrett Ziegler<br/>relayed link"]
+  author["Marc Aaron DeGiovanni<br/>Aug 2021; first known download"]
   apfs["APFS* imgc<br/>Jun 2022 MEGA — different object"]
 
   unknown --> rstudio
   rstudio --> mega
-  hayes -.->|attribution / claim| rstudio
+  hayes -->|MEGA link| ziegler
+  hayes -.->|attribution / R-00014| rstudio
   ziegler --> mega
   mega --> author
-  hayes --> apfs
+  hayes -->|direct| apfs
   apfs --> author

@@ -14,11 +14,15 @@ Many 0728 blobs **hash-match** files whose paths on APFS/JPMI/GAI sit under a `r
 
 ### Alleged recovery operator
 
-**Conan James Hayes** is the person Ziegler named as the Extra Files source and the person who, in April 2024, described carving them from unallocated space.
+**Conan James Hayes** is the person Ziegler named as the **MEGA host** for Extra Found Files and the person who, in April 2024, described carving them from unallocated space.
 
 ### Immediate MEGA custodian to this project
 
-**Garrett Ziegler** sent the download URL in **August 2021**. Older shorthand “received from Conan Hayes” collapses this **two-hop**. This encyclopedia keeps the hops separate.
+**Garrett Ziegler** shared **Hayes’s download URL** in **August 2021**. He relayed the link; he did not originate the share. Older shorthand “received from Conan Hayes” or “Ziegler provided the MEGA share” **without** naming Hayes as upstream collapses the **two-hop** chain. This encyclopedia keeps the hops separate. [MEGA delivery](MEGA_DELIVERY.md).
+
+### First known download
+
+**Marc Aaron DeGiovanni** is the **first person known to download** from Hayes’s MEGA link. Whether anyone else downloaded earlier is **not** established here.
 
 ### Later forensic custody
 
@@ -48,7 +52,7 @@ There is no single “0728 date.” Different dates describe different events.
 | April 2019 | Mac Shop recovery | Laptop-universe context; **not** the 0728 export date |
 | May 2021 | Mesa County trusted build (Hayes) | Hayes forensic-imaging act on a **different** system |
 | **2021-07-28 / 07-29** | Local stamp + UTC write burst (~177k paths in ~27 min) | **Materialization** of this tree |
-| August 2021 | Author MEGA download (Ziegler) | Project acquisition |
+| August 2021 | Ziegler shares Hayes’s MEGA link; author download (**first known**) | Project acquisition |
 | June 2022 | Hayes MEGA APFS image | Different object |
 | 2022-09-13 | FBI FD-597 iPhone | Hayes/FBI contact; not 0728 hashing |
 | 2024-04-17 | R-00014 carving statement | Participant method account |

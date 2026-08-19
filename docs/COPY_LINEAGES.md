@@ -15,8 +15,7 @@ Mac Isaac retained-copy universe (Apr 2019 → later copies)
         │                         └─ APFS* (Jun 2022 imgc to this author)
         └─► 0728 Extra Found Files                   [this encyclopedia]
                 R-Studio export, Jul 2021
-                MEGA: Ziegler → author (Aug 2021)
-                alleged upstream: Hayes
+                MEGA: Hayes → Ziegler → author (Aug 2021; first known download)
 ```
 
 **0728 is a separate corpus.** It is not a clone of JPMI, APFS, or GAI. The same bag contains blobs that match **all three**, each **pair**, each **singleton**, and **none**.

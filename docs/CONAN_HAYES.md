@@ -2,7 +2,7 @@
 
 > **Hatnote.** Human center of the 0728 story. Informant claim: [Informant theory](INFORMANT_THEORY.md). Call excerpts: [R-00014](R00014_CALL.md). Mesa County: [Tina Peters](TINA_PETERS.md).
 
-**Conan James Hayes** (also billed as **C. James Hayes**) is a former professional surfer, co-founder of the clothing brand **RVCA**, and the person this encyclopedia treats as the **alleged producer** of Extra Found Files and the **direct MEGA provider** of the June 2022 APFS image.
+**Conan James Hayes** (also billed as **C. James Hayes**) is a former professional surfer, co-founder of the clothing brand **RVCA**, and the person this encyclopedia treats as the **alleged producer** of Extra Found Files and the **direct MEGA provider** of the June 2022 APFS image (**not** the direct handoff of 0728 to this author — that was relayed through Ziegler; see [MEGA delivery](MEGA_DELIVERY.md)).
 
 ## Biography (public record)
 
@@ -24,7 +24,7 @@ This encyclopedia cites those outlets as **contemporaneous journalism and forum-
 
 ## Why he is on the 0728 page
 
-1. **Ziegler attribution** — Extra Found Files MEGA share, August 2021.
+1. **Alleged upstream MEGA host** — Hayes’s MEGA link for Extra Found Files; Ziegler received it and relayed it to this author (**August 2021**). Author is the **first person known to download** from that link.
 2. **Method claim** — R-00014 carving language, April 2024.
 3. **Direct APFS*** — `RHB_Boot.imgc`, June 2022, to this author.
 4. **iPhone-backup password** — Hayes’s copy retained the macOS **keychain vault** that Marco Polo’s bootable lacked. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).

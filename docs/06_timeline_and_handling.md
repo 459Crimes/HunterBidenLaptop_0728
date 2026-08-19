@@ -18,7 +18,7 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 **28 July 2021 (local) / 29 July 2021 04:19:09–04:46:08 UTC.** 0728 tree materializes. ~**177,488** paths in a ~27-minute window; ~**105,654** distinct hashes; ~281 GB one-size-per-hash; category-ordered write bands (Archive through Multimedia Video). Direct 0728 reporting. This **is** the 0728 event.
 
-**August 2021.** Ziegler MEGA URL → DeGiovanni download. Author collection record. Hayes-as-upstream is Ziegler’s attribution. Author recollection: Ziegler said Hayes **tricked iCloud using laptop thumbnails** (UAS). [Circular custody](CIRCULAR_CUSTODY.md).
+**August 2021.** Ziegler shared **Hayes’s MEGA link** with the author. Author collection record: **first person known to download** from that share. Ziegler attributed Hayes. Author recollection: Ziegler said Hayes **tricked iCloud using laptop thumbnails** (UAS). [MEGA delivery](MEGA_DELIVERY.md) · [Circular custody](CIRCULAR_CUSTODY.md).
 
 **8 April 2022.** Byrne Locals livestream: ~400,000 deleted files; “**the trick** you’ve got to do to recover the hidden files.” Author (@MAXXISCOPOLIS): “hack **not involving the laptop**”; screenshot of Extra Found Files (**473,580** files, created 5 Aug 2021). [Patrick Byrne](PATRICK_BYRNE.md).
 

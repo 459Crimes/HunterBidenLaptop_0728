@@ -10,11 +10,11 @@ Press: retired professional surfer, RVCA co-founder, deleted Twitter **@We_Have_
 
 ## Garrett Ziegler / Marco Polo
 
-Immediate MEGA provider of 0728 (**August 2021**). Recalled iCloud/thumbnail “trick” statement (UAS). MPOLO bootable **lacked password vaults**. [Garrett Ziegler](GARRETT_ZIEGLER.md) · [Marco Polo](MARCO_POLO.md).
+Relayed **Hayes’s MEGA link** for 0728 to this author (**August 2021**). Immediate custodian to this project; **not** the alleged upstream host. Recalled iCloud/thumbnail “trick” statement (UAS). MPOLO bootable **lacked password vaults**. [Garrett Ziegler](GARRETT_ZIEGLER.md) · [Marco Polo](MARCO_POLO.md).
 
 ## Marc Aaron DeGiovanni (author)
 
-First downloader of the 0728 MEGA share; Locals @MAXXISCOPOLIS screenshot and “hack not involving the laptop”; later recipient of Hayes’s APFS image; publisher of this encyclopedia. [Author](AUTHOR.md) · [Circular custody](CIRCULAR_CUSTODY.md).
+**First person known to download** from Hayes’s MEGA link (shared by Ziegler, August 2021). Locals @MAXXISCOPOLIS screenshot and “hack not involving the laptop”; later **direct** recipient of Hayes’s APFS image (June 2022). Publisher of this encyclopedia. [Author](AUTHOR.md) · [Circular custody](CIRCULAR_CUSTODY.md).
 
 ## Patrick Byrne
 
