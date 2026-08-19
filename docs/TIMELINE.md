@@ -15,6 +15,9 @@ Compact event list. Narrative: [06](06_timeline_and_handling.md).
 | 2022-08-08 | Mar-a-Lago search (public) |
 | **2022-09-13** | **FD-597 Hayes iPhone; Lindell phone same day** |
 | **2024-04-17** | **R-00014 carving call** |
+| **2024-06-03** | **Morris call: unauthorized iCloud retrieval claim** |
 | 2024-08 | Peters trial; informant theory excluded |
+| before 2026-07-28 | Author electronic tip to federal authorities |
+| **2026-07-28** | **FBI/DOJ criminal referral on 0728** |
+| **2026-07-30** | **Hunter Biden sent same referral package as DOJ** |
 | 2026 | Working-copy mtimes on ~267k 0728 paths |
-| 2026-07-28 | Author FBI 0728 referral |

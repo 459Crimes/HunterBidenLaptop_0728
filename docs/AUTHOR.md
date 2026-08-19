@@ -37,11 +37,16 @@ The same author also publishes:
 
 Those sites and repos are **separate publications**. The JPMI volume is the sibling encyclopedia in the [459Crimes laptop forensics catalog](../README.md#459crimes--hunter-biden-laptop-forensics-catalog).
 
-## FBI referral on 0728 (in scope as project identity)
+## FBI / DOJ criminal referral (project identity)
 
-On **28 July 2026** the author submitted to the FBI a source-attribution referral on the **0728 Extra Found Files** corpus as **potentially hacked** (`FBI_0728_Source_Attribution_Referral_FINAL_2026-07-28.pdf`).
+| When | Event |
+|---|---|
+| **3 Jun 2024** | Preserved call with **Kevin Morris** (Hunter Biden’s attorney): author stated that additional files received in 2021 were retrieved from **iCloud without authorization** |
+| **Before 28 Jul 2026** | Author filed an **electronic tip** to federal authorities |
+| **28 Jul 2026** | **Criminal referral** on the **0728 Extra Found Files** corpus submitted to the **FBI and DOJ** (`FBI_0728_Source_Attribution_Referral_FINAL_2026-07-28.pdf`) |
+| **30 Jul 2026** | Author sent **Robert Hunter Biden** the **same criminal referral package** forwarded to DOJ |
 
-That referral is **author advocacy**, not an FBI finding, and not a substitute for the hash tables in this repository. The PDF is not hosted in this GitHub tree. The underlying question — unmatched hashes and stripped names — **is** this encyclopedia’s integrity problem. See [Integrity](INTEGRITY.md).
+That referral is **author advocacy**, not an FBI or DOJ finding, and not a substitute for the hash tables in this repository. The PDF is not hosted in this GitHub tree. The underlying question — unmatched hashes and stripped names — **is** this encyclopedia’s integrity problem. See [Integrity](INTEGRITY.md) · [README criminal referral chronology](../README.md#criminal-referral-chronology).
 
 ## Holdings (author / 459Crimes inventory)
 

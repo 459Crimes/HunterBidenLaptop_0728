@@ -6,6 +6,19 @@ The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the 
 
 This GitHub repository is an **encyclopedia of that corpus**. It publishes tree identity, category inventories, SHA-256 overlap with other indexed sources, timestamps, and a sourced Hayes custody-and-method history. It does **not** publish the Extra Found Files bytes.
 
+## Criminal referral chronology
+
+> **Project identity.** These are **author submissions**, not FBI or DOJ findings. The referral PDF is **not** hosted in this GitHub tree. See [Author](docs/AUTHOR.md) · [Integrity](docs/INTEGRITY.md).
+
+| When | Event | Class |
+|---|---|---|
+| **3 Jun 2024** | On a preserved call, the author told **Kevin Morris** (Hunter Biden’s attorney) that additional files received in 2021 were retrieved from **iCloud without authorization** | Participant statement (author) |
+| **Before 28 Jul 2026** | Author filed an **electronic tip** to federal authorities | Author collection record |
+| **28 Jul 2026** | **Criminal referral** on the 0728 corpus submitted to the **FBI and DOJ** (`FBI_0728_Source_Attribution_Referral_FINAL_2026-07-28.pdf`) | Author advocacy |
+| **30 Jul 2026** | Author sent **Robert Hunter Biden** the **same criminal referral package** that went to DOJ (counsel copied) | Author collection record |
+
+The formal referral followed counsel notice and the electronic tip. It requests preservation and source-attribution investigation of the July 2021 Extra Found Files tree — especially the **94,635** hashes that match none of APFS, GAI, or JPMI.
+
 ## 459Crimes — Hunter Biden laptop forensics catalog
 
 Rolling public encyclopedias from **459Crimes / Marc Aaron DeGiovanni**. Each volume is a **separate GitHub repository** with its own scope, hash tables, and integrity finding. They are designed to be read together; SHA-256 joins are how the volumes connect.
@@ -35,6 +48,7 @@ Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](ht
 | **Distinct SHA-256 / logical bytes** | **317,319** / **336,321,196,441** (~313.2 GiB) — [hash catalog](docs/catalog/hash_manifest.md) |
 | **Overlap vs APFS ∪ GAI ∪ JPMI** | **222,684** hashes (70.2%) match at least one; **94,635** (29.8%) match none |
 | **This tree contains** | Articles, exhibits, derived tables — **not** the 313 GiB source files |
+| **Criminal referral** | Morris notice **3 Jun 2024** → electronic tip → FBI/DOJ **28 Jul 2026** → Hunter Biden same package **30 Jul 2026** | Project identity — [Author](docs/AUTHOR.md) |
 | **Author** | **459Crimes / Marc Aaron DeGiovanni**. [Author](docs/AUTHOR.md) · [*Beyond the Diary*](https://BeyondTheDiary.com) · [diary release](https://ShowersWithMy.Dad) |
 
 ## Start here
@@ -101,8 +115,11 @@ Full sourced narrative: [Timeline and handling](docs/06_timeline_and_handling.md
 | **13 Sep 2022** | FBI Form **FD-597**: Hayes black iPhone “Received From”; SA **Calum Ramm** (Dallas). | Photographed FBI form — [Exhibits](docs/EXHIBITS.md) |
 | **8 Apr 2022** | Byrne Locals: ~400k “deleted” files; “**the trick**”; author screenshot of Extra Found Files (473,580) and “hack **not involving the laptop**”. | Archived stream + chat · [Byrne](docs/PATRICK_BYRNE.md) |
 | **17 Apr 2024** | Recorded call **R-00014** (excerpts): Trump/Mar-a-Lago; Extra Files carving; FBI/Backpage. | Audio exhibit |
+| **3 Jun 2024** | Preserved call: author told **Kevin Morris** that 2021 additional files came from **unauthorized iCloud retrieval**. | Participant statement — [Author](docs/AUTHOR.md) |
 | **Aug 2024** | Tina Peters trial; informant theory excluded; prosecutor said FBI confirmed Hayes was never an informant. | Court / contemporaneous journalism |
-| **28 Jul 2026** | Author FBI referral on 0728 as potentially hacked. | Project identity — [Author](docs/AUTHOR.md) |
+| **Before 28 Jul 2026** | Author filed an **electronic tip** to federal authorities. | Author collection record |
+| **28 Jul 2026** | **Criminal referral** on 0728 submitted to **FBI and DOJ**. | Project identity — [Author](docs/AUTHOR.md) |
+| **30 Jul 2026** | Author sent **Hunter Biden** the **same referral package** sent to DOJ. | Author collection record |
 
 ## What is in the tree
 

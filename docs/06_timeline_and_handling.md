@@ -36,13 +36,19 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 **17 April 2024 (~12:49 Costa Rica).** R-00014 **excerpts published**: Extra Files carved from unallocated space; Homeland/Backpage FBI help; Trump / Mar-a-Lago / California van. [R-00014](R00014_CALL.md).
 
+**3 June 2024 (~5:28 p.m. UTC−6).** Preserved call with **Kevin Morris** (Hunter Biden’s attorney): author stated that additional files received in 2021 were retrieved from **iCloud without authorization**. Participant statement. [Author](AUTHOR.md).
+
 **August 2024.** *People v. Peters* trial. Informant theory excluded; FBI denial of informant status as recited by the prosecutor. Journalism + later appellate opinion.
 
-## 2026 — this encyclopedia’s working copy; FBI referral
+## 2026 — this encyclopedia’s working copy; criminal referral
 
 **2026 mtimes** on ~267k 0728 paths: project working-copy / inventory handling, not a 2021 recarve.
 
-**28 July 2026.** Author FBI source-attribution referral on 0728 as potentially hacked. Project identity. Not an FBI conclusion.
+**Before 28 July 2026.** Author filed an **electronic tip** to federal authorities. Author collection record.
+
+**28 July 2026.** **Criminal referral** on 0728 submitted to the **FBI and DOJ**. Project identity. Not a government finding. [Author](AUTHOR.md) · [README](../README.md#criminal-referral-chronology).
+
+**30 July 2026.** Author sent **Robert Hunter Biden** the **same criminal referral package** forwarded to DOJ. Author collection record.
 
 ## See also
 

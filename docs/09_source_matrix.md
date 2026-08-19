@@ -29,7 +29,9 @@ Each row is a **claim** used in the articles, the **class**, and the **source**.
 | Author chat: “hack not involving the laptop”; Extra Found Files Properties 473,580 | Archived Locals chat + hosted still | [Exhibits](EXHIBITS.md) |
 | Ziegler said Hayes used thumbnails to trick iCloud | Participant recollection (author of Ziegler) — UAS | [Circular custody](CIRCULAR_CUSTODY.md) |
 | MPOLO lacked keychain vaults; Hayes fuller copy had `login_renamed_1.keychain-db` | Comparative / author collection | [iPhone backup password](IPHONE_BACKUP_PASSWORD.md) |
-| Author FBI referral 28 Jul 2026 on 0728 as potentially hacked | Project identity | [Author](AUTHOR.md) |
+| **28 Jul 2026** | Author FBI/DOJ criminal referral on 0728 | Project identity | [Author](AUTHOR.md) |
+| **30 Jul 2026** | Author sent Hunter Biden same referral package as DOJ | Author collection | [Author](AUTHOR.md) |
+| **3 Jun 2024** | Morris call: unauthorized iCloud retrieval claim | Participant (author) | [Author](AUTHOR.md) |
 | 0728 is not a clone of JPMI/APFS/GAI | Interpretation of overlap | Coverage TSV: both matches and misses exist |
 | Sep 2022 phone event more likely Mesa County than Trump-call | Inference | Date coincidence with Lindell seizure; incomplete warrant file |
 
