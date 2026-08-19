@@ -6,6 +6,21 @@ The **0728 Extra Found Files** corpus (**0728**) is one evidence lineage in the 
 
 This GitHub repository is an **encyclopedia of that corpus**. It publishes tree identity, category inventories, SHA-256 overlap with other indexed sources, timestamps, and a sourced Hayes custody-and-method history. It does **not** publish the Extra Found Files bytes.
 
+## 459Crimes — Hunter Biden laptop forensics catalog
+
+Rolling public encyclopedias from **459Crimes / Marc Aaron DeGiovanni**. Each volume is a **separate GitHub repository** with its own scope, hash tables, and integrity finding. They are designed to be read together; SHA-256 joins are how the volumes connect.
+
+| Volume | Repository | Primary object | Role in the matter |
+|---|---|---|---|
+| **0728** | **This repo** — [459Crimes/BidenLaptop_0728](https://github.com/459Crimes/BidenLaptop_0728) | Extra Found Files (Hayes-attributed R-Studio export, Jul 2021) | Recovery-export tree; **94,635** hashes match none of APFS, GAI, or JPMI |
+| **JPMI** | [459Crimes/BidenLaptop_JPMI](https://github.com/459Crimes/BidenLaptop_JPMI) | Mac Isaac direct-copy lineage (Crucial X6 / `HB-IMAGE-2022-04-29.E01`) | Repair-shop HFS+ home; CBS-examined “exact copy” family |
+| *(indexed, not yet encyclopedia)* | — | APFS bootable (`TRIMARCO` → `TODD` → `HAYES` / MPOLO / APFS*) | Hash-join target; Marco Polo’s bootable copy |
+| *(indexed, not yet encyclopedia)* | — | GAI truncated HFS+ (`hb.img`) | Hash-join target |
+
+**You are here:** 0728. For the Wilmington repair-shop copy and post-2019 custody, open **JPMI**. For how the lineages split and rejoin: [Copy lineages](docs/COPY_LINEAGES.md). Author inventory: [Author](docs/AUTHOR.md).
+
+Other 459Crimes publications (not laptop encyclopedias): [*Beyond the Diary*](https://BeyondTheDiary.com) · [diary release](https://ShowersWithMy.Dad).
+
 | | |
 |---|---|
 | **Lineage** | Hayes-attributed MEGA recovery export (R-Studio Known File Types tree) |

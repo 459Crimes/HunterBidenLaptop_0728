@@ -35,7 +35,7 @@ The same author also publishes:
 - the **full digital release of the diary** — https://ShowersWithMy.Dad
 - the JPMI encyclopedia — https://github.com/459Crimes/BidenLaptop_JPMI
 
-Those sites and repos are **separate publications**.
+Those sites and repos are **separate publications**. The JPMI volume is the sibling encyclopedia in the [459Crimes laptop forensics catalog](../README.md#459crimes--hunter-biden-laptop-forensics-catalog).
 
 ## FBI referral on 0728 (in scope as project identity)
 
@@ -56,6 +56,7 @@ That referral is **author advocacy**, not an FBI finding, and not a substitute f
 
 - [Scope](SCOPE.md)
 - [Copy lineages](COPY_LINEAGES.md)
+- [JPMI encyclopedia](https://github.com/459Crimes/BidenLaptop_JPMI)
 - [People](PEOPLE.md)
 - [Circular custody](CIRCULAR_CUSTODY.md)
 - [Bibliography](BIBLIOGRAPHY.md)
