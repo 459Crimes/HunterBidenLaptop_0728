@@ -6,6 +6,8 @@
 
 > The iPhone backup on the laptop is encrypted. The **password is stored in a macOS keychain**. The **MPOLO** bootable that Hayes gave Marco Polo in June 2021 was a **reduced system** — it **lacked essential system files, including password vaults**. Ziegler therefore could not open the backup from that stick. Hayes’s later working copy still contained the older keychain file `login_renamed_1.keychain-db`. That file is what made the backup decryptable. **Conan Hayes was essential**; Marco Polo’s published laptop work did not include this step.
 
+
+
 ## Why a bootable “laptop” can still miss the vault
 
 A Carbon Copy Cloner / desktop-drop copy can look like macOS and still omit:
@@ -20,15 +22,17 @@ That is the MPOLO limitation as used in this encyclopedia. [Garrett Ziegler](GAR
 
 ## What the fuller Hayes copy contained
 
-On **APFS*** / Hayes’s APFS — the image file `RHB_Boot.imgc` Hayes MEGA-sent this author on **13 June 2022** — and in forensic extracts from that family — there is a **renamed historical keychain**:
+On the Hayes-family APFS image later sent to this author (`RHB_Boot.imgc`, June 2022) — and in forensic extracts from that family — there is a **renamed historical keychain**:
 
-| Property | Value |
-|---|---|
-| Path | `Users/roberthunter/Library/Keychains/login_renamed_1.keychain-db` |
-| Size | 935,016 bytes |
-| SHA-256 | `72f8c76003d500e2ede875cb4b068cbb835cbb62a062fdaa5356a01d3867752b` |
-| mtime | 2019-03-17 21:16:02 |
-| Role | Pre-rename copy of the user login keychain; contains an **iOS Backup** item |
+
+| Property | Value                                                                       |
+| -------- | --------------------------------------------------------------------------- |
+| Path     | `Users/roberthunter/Library/Keychains/login_renamed_1.keychain-db`          |
+| Size     | 935,016 bytes                                                               |
+| SHA-256  | `72f8c76003d500e2ede875cb4b068cbb835cbb62a062fdaa5356a01d3867752b`          |
+| mtime    | 2019-03-17 21:16:02                                                         |
+| Role     | Pre-rename copy of the user login keychain; contains an **iOS Backup** item |
+
 
 The **live** `login.keychain-db` on later copies is a different, smaller file (mtime 2021-09-09 on one index). The old password **does not** open it. The renamed March 2019 file is the one that still held the era of the November 2018 iPhone backup.
 
@@ -43,20 +47,22 @@ Project verification (2026-07-08) reconstructed:
 3. unlock Keychain Access and read the stored **iOS Backup** password;
 4. decrypt the iPhone backup (160 domains, 6,774 files, ~28 GB in that run).
 
-**This encyclopedia does not publish a cracking recipe.** The existence of the chain is a **custody and completeness** fact: Hayes had the vault; the Marco Polo stick did not.
+**This encyclopedia does not publish a cracking recipe.** The existence of the chain is a **custody and completeness** fact: Hayes had the vault; the Marco Polo bootable laptop did not.
 
 The recovered iOS Backup password itself is an **operator secret** in parent notes. It is not a 0728 filename and is not required to read Extra Found Files.
 
 ## What this does **not** prove
 
 - that Extra Found Files came from the iPhone backup (iPhone-backup joins explained **16** unmatched 0728 hashes — noise);
-- that Ziegler never possessed a keychain on some other medium;
+- that Ziegler never possessed a keychain on some other medium—he probably did when he possessed a Jack Maxey clone in December 2020;
+
 - that Apple was breached.
 
-It **does** prove why “Marco Polo already had the laptop” is not the same sentence as “Marco Polo had the credential store.” Hayes’s **selection of what to put on the stick** is itself a handling event.
+It **does** prove why “Marco Polo already had the laptop” is not the same sentence as “Marco Polo had the credential store.” Hayes’s migration of his copy of the APFS image file, migrated to a modern bootable M1 Macbook in 2021, caused a variation in the **selection of files.** That was, in itself, a handling event.
 
 ## See also
 
 - [Copy lineages](COPY_LINEAGES.md)
 - [Conan Hayes](CONAN_HAYES.md)
 - [Author](AUTHOR.md)
+
