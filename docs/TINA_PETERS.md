@@ -20,11 +20,13 @@ Appellate opinion: *People v. Peters*, Colo. App. No. **24CA1951** (summary publ
 
 This encyclopedia’s **origin frame** for Extra Found Files is the same cover story Peters’s lawyers later wrote down: Hayes needed his identity concealed because he claimed to be a **federal informant who helped take down Backpage** and was hunted by cartels. Full treatment: [Informant theory](INFORMANT_THEORY.md).
 
-Closest **primary filing** located (not a standalone Hayes-signed affidavit): Peters, *Motion for Bond Pending Appeal*, 17 Nov 2024 — https://tinapeters.us/wp-content/uploads/2024/12/11-17-2024-Motion-for-Bond-on-Appeal.pdf
+Closest **primary** now held here is Hayes’s **signed affidavit** (photographed; **8/4/24**; paper title *Declaration of Conan James Hayes*): cartels, alternative identities, voting-equipment authorization, and that he told Peters in 2021. [Informant theory](INFORMANT_THEORY.md) · [exhibit](exhibits/fbi/hayes_signed_affidavit_2024-08-04.jpg).
+
+Peters’s *Motion for Bond Pending Appeal*, 17 Nov 2024, is the **counsel restatement** that adds the **Backpage / federal informant** labels: https://tinapeters.us/wp-content/uploads/2024/12/11-17-2024-Motion-for-Bond-on-Appeal.pdf
 
 Defense attorney Daniel Hartman argued Peters believed Hayes was a governmental informant. Judge Matthew Barrett kept it from the jury. DA Dan Rubinstein told the court the **FBI confirmed Hayes never was an informant**. CPR, Colorado Sun, Colorado Newsline, and Seattle Times reported the fight in August 2024.
 
-R-00014’s Homeland/Backpage self-description is **Hayes in his own voice** on the same motif. It does **not** convert the FBI denial into a CHS file.
+R-00014’s Homeland/Backpage self-description — “I come in and out”; helped FBI on Backpage; worked for Homeland — is **Hayes in his own voice**. That is **at least an asset**. It does **not** convert the FBI denial of the word **informant** into a CHS file. [Informant theory](INFORMANT_THEORY.md).
 
 ## Relation to 0728
 

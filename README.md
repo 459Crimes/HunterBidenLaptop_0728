@@ -117,6 +117,7 @@ Full sourced narrative: [Timeline and handling](docs/06_timeline_and_handling.md
 | **8 Apr 2022** | Byrne Locals: ~400k “deleted” files; “**the trick**”; author screenshot of Extra Found Files (473,580) and “hack **not involving the laptop**”. | Archived stream + chat · [Byrne](docs/PATRICK_BYRNE.md) |
 | **17 Apr 2024** | Recorded call **R-00014** (excerpts): Trump/Mar-a-Lago; Extra Files carving; FBI/Backpage. | Audio exhibit |
 | **3 Jun 2024** | Preserved call: author told **Kevin Morris** that 2021 additional files came from **unauthorized iCloud retrieval**. | Participant statement — [Author](docs/AUTHOR.md) |
+| **4 Aug 2024** | Hayes signs **affidavit** (*Declaration of Conan James Hayes*: cartels, alternative identities, voting-equipment access). Photo **13 Aug**. | Photographed signed affidavit — [Informant theory](docs/INFORMANT_THEORY.md) |
 | **Aug 2024** | Tina Peters trial; informant theory excluded; prosecutor said FBI confirmed Hayes was never an informant. | Court / contemporaneous journalism |
 | **Before 28 Jul 2026** | Author filed an **electronic tip** to federal authorities. | Author collection record |
 | **28 Jul 2026** | **Criminal referral** on 0728 submitted to **FBI and DOJ**. | Project identity — [Author](docs/AUTHOR.md) |

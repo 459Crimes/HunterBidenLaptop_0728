@@ -1,4 +1,4 @@
-# Exhibits (audio, FBI paperwork, Locals stills)
+# Exhibits (audio, FBI paperwork, Hayes affidavit, Locals stills)
 
 > **Hatnote.** These are **not** Extra Found Files contents. File list: [exhibits catalog](catalog/exhibits.md).
 
@@ -31,7 +31,16 @@ Photographed receipt: CONAN HAYES; black iPhone; Received From.
 
 Provenance of the four FBI images: Signal attachments archived in the parent project on 2026-07-25. They are **photographs of papers**, weaker than originals or certified copies.
 
-## 5. Locals stills — Byrne stream, 8 April 2022
+## 5. Hayes’s signed affidavit (4 August 2024)
+
+Photographed typed statement titled **DECLARATION OF CONAN JAMES HAYES**; under penalty of perjury; mailing address **redacted**; handwritten date **8/4/24**. Original camera filename `photo_2024-08-13_18-15-38.jpg`. Article: [Informant theory](INFORMANT_THEORY.md).
+
+- [hayes_signed_affidavit_2024-08-04.jpg](exhibits/fbi/hayes_signed_affidavit_2024-08-04.jpg)
+- [photo_2024-08-13_18-15-38.jpg](exhibits/fbi/photo_2024-08-13_18-15-38.jpg) (same bytes)
+
+This is **Hayes’s signed affidavit**, not an FBI form. Photograph of a page, weaker than a certified court original. Not notarized on its face.
+
+## 6. Locals stills — Byrne stream, 8 April 2022
 
 Screenshots of **UI and chat**, not Extra Found Files bytes. Narrative: [Circular custody](CIRCULAR_CUSTODY.md) · [Patrick Byrne](PATRICK_BYRNE.md).
 

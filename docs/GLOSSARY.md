@@ -50,6 +50,18 @@ John Paul Mac Isaac copy lineage (HFS+ `Untitled` / Crucial X6). Separate encycl
 
 R-Studio mode that dumps signature hits into type folders. The English folder names in this corpus match that dialect.
 
+## Asset / informant / CHS
+
+Three different labels. This encyclopedia keeps them apart.
+
+| Term | Meaning here |
+|---|---|
+| **Asset** | Someone used **on and off** for help — not a badge, not payroll employment. Hayes’s R-00014 words: Homeland work; “I helped FBI on Backpage case”; “I come in and out”; “I'm not associated or affiliated.” That is **at least an asset**. Gloss of Hayes’s self-report, not a Bureau file label held here. |
+| **Informant** | The word Peters’s lawyers used (Backpage / cartels / identity concealment). Also the word the prosecutor said the FBI **denied**. |
+| **CHS** | Registered confidential human source. **Not** established. Hayes did not claim it. The FD-597 is not it. |
+
+[Informant theory](INFORMANT_THEORY.md).
+
 ## MEGA
 
 Cloud transfer used for the August 2021 0728 share (Hayes → Ziegler → author) and for **APFS*** (`RHB_Boot.imgc`, Hayes → author **13 June 2022**).

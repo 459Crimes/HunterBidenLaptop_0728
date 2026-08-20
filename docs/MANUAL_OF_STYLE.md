@@ -22,6 +22,7 @@ These classes are kept distinct:
 | **Contemporaneous journalism** | CPR, Colorado Sun, Colorado Newsline, LA Times | Named reporter observation or attributed quote |
 | **Participant account** | R-00014 call; Ziegler MEGA attribution; Hayes Signal | “Hayes said…” / “Ziegler’s account…” |
 | **Photographed federal form** | FD-597, Ramm card, warrant excerpt | “The photographed form shows…” — not a certified copy |
+| **Photographed signed affidavit** | Hayes 4 Aug 2024 affidavit (*Declaration of Conan James Hayes*) | “The photographed paper states…” — Hayes’s claim, not a CHS finding |
 | **Comparative inventory** | APFS/GAI/JPMI rows in `rhb_forensics` | Cite source_id; do not call the row `0728://` |
 | **Independent forensic** | Parent-project unallocated scans, CBS (JPMI lineage) | Separate attribution |
 | **Interpretation** | R-Studio Known File Types knowledge | “Consistent with…” rather than “proves Hayes sat at…” |
@@ -45,7 +46,8 @@ The following are **not** findings of this encyclopedia:
 - that 0728 is a sector copy of the MacBook internal SSD;
 - that 0728 was carved from APFS* / Hayes’s APFS (`RHB_Boot.imgc`, MEGA 13 June 2022) as now indexed;
 - that every unmatched hash is non-laptop in origin;
-- that Hayes was a registered FBI confidential informant;
+- that Hayes was a **registered** FBI confidential informant (CHS);
+- that “never an informant” answers Hayes’s own Backpage / Homeland / “come in and out” account (that account is **at least an asset**);
 - that the 13 Sep 2022 iPhone event was caused by a call with Donald Trump;
 - that Ziegler’s MEGA folder is byte-identical to Hayes’s working tree;
 - that Marco Polo analyzed the JPMI / Della Rocca copy (it used MPOLO + 0728);
@@ -66,6 +68,7 @@ Integrity wording used in the articles is in [Integrity](INTEGRITY.md).
 | **GAI** | Government Accountability Institute truncated HFS+ image (`hb.img`) |
 | **MPOLO** | Marco Polo’s claimed Jun 2021 Hayes **bootable laptop**, not 0728 |
 | **R-00014** | 17 April 2024 recorded call, Hayes and DeGiovanni |
+| **Asset** | Hayes’s “come in and out” Homeland / FBI / Backpage help — not a registered CHS. [Informant theory](INFORMANT_THEORY.md) |
 | **Source bytes** | Contents of `source/recovered/`; **not** in this GitHub tree |
 
 Articles expand 0728 on first use.

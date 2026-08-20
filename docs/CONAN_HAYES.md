@@ -28,7 +28,7 @@ This encyclopedia cites those outlets as **contemporaneous journalism and forum-
 2. **Method claim (rejected)** — R-00014 carving language, April 2024. Unallocated-space origin of Extra Files is **incompatible** with TRIM, file-aware copy, and L3. [Carving claim](HAYES_CARVING_CLAIM.md).
 3. **Direct APFS*** — image file `RHB_Boot.imgc`, MEGA to this author on **13 June 2022** (file datestamp). When analyzed: **APFS** / Hayes’s APFS.
 4. **iPhone-backup password** — Hayes’s copy retained the macOS **keychain vault** that Marco Polo’s bootable lacked. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
-5. **Informant / cover-identity story** — the same Backpage/federal-protection narrative appears in Peters’s court filings **and** on R-00014. That story is the **political and operational context** for asking whether 0728 is only a laptop carve. [Informant theory](INFORMANT_THEORY.md).
+5. **Informant / asset / cover-identity story** — R-00014: Homeland and FBI **Backpage**, coming **in and out** (**at least an asset**); **4 Aug 2024 signed affidavit**; Peters’s counsel **federal-informant** restatement. That story is the **political and operational context** for asking whether 0728 is only a laptop carve. [Informant theory](INFORMANT_THEORY.md).
 
 ## Mesa County (May 2021)
 
@@ -38,7 +38,7 @@ Hayes used Gerald Wood’s badge at the trusted build, imaged the elections serv
 
 ## Project-held statements
 
-On R-00014 Hayes claimed Homeland contract work, informal FBI help on **Backpage**, a Trump conversation, and unallocated carving of Extra Files. Photographed FBI FD-597 (13 Sep 2022) documents an iPhone custody event, not CHS status.
+On R-00014 Hayes claimed **Homeland** work, **on-and-off FBI help on Backpage** (“come in and out”; “not associated or affiliated”), a Trump conversation, and unallocated carving of Extra Files. That Backpage/Homeland account is **at least an asset** self-description; it is not a registered CHS finding. Photographed **signed affidavit** (**8/4/24**, titled *Declaration of Conan James Hayes*) puts cartels, alternative identities, and voting-equipment authorization on a signed page. Photographed FBI FD-597 (13 Sep 2022) documents an iPhone custody event, not CHS status. [Informant theory](INFORMANT_THEORY.md).
 
 ## See also
 

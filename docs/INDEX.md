@@ -13,14 +13,14 @@ This directory is the **0728 encyclopedia**: Extra Found Files, Conan James Haye
 | Who wrote this encyclopedia | [Author](AUTHOR.md) |
 | Who the people are | [People](PEOPLE.md) |
 | Conan James Hayes (bio + 0728 role) | [Conan Hayes](CONAN_HAYES.md) |
-| Informant / Backpage / identity-concealment | [Informant theory](INFORMANT_THEORY.md) · [Tina Peters](TINA_PETERS.md) |
+| Informant / asset / Backpage / identity-concealment | [Informant theory](INFORMANT_THEORY.md) · [Tina Peters](TINA_PETERS.md) |
 | R-00014 excerpts (Trump, carving, FBI) | [R-00014](R00014_CALL.md) |
 | FBI iPhone FD-597 / Calum Ramm | [Phone seizure](PHONE_SEIZURE.md) |
 | Patrick Byrne / Todd Sanders / Jack Maxey / Garrett Ziegler | [Byrne](PATRICK_BYRNE.md) · [Sanders](TODD_SANDERS.md) · [Maxey](JACK_MAXEY.md) · [Ziegler](GARRETT_ZIEGLER.md) |
 | Hashes with no match in GAI, APFS, or JPMI | [Unmatched hashes](UNMATCHED_HASHES.md) · [23-image exhibit](TWENTY_THREE_IMAGES.md) |
 | July 28, 2021 dump | [July 28 burst](JULY_28_BURST.md) · [Stripped names](STRIPPED_NAMES.md) |
 | Why Marco Polo lacked the iPhone password | [iPhone backup password](IPHONE_BACKUP_PASSWORD.md) |
-| Signed photos, audio clips, Locals stills | [Exhibits](EXHIBITS.md) · [exhibits catalog](catalog/exhibits.md) |
+| Signed photos, audio clips, Locals stills, Hayes affidavit | [Exhibits](EXHIBITS.md) · [exhibits catalog](catalog/exhibits.md) |
 | How the MEGA share reached this author | [MEGA delivery](MEGA_DELIVERY.md) |
 | R-Studio category folders and synthetic names | [R-Studio tree](R_STUDIO.md) |
 | Hayes’s unallocated-carve statement (**rejected**) | [Carving claim](HAYES_CARVING_CLAIM.md) |
@@ -58,7 +58,7 @@ This directory is the **0728 encyclopedia**: Extra Found Files, Conan James Haye
 | [Hash manifest](catalog/hash_manifest.md) | SHA-256 overlap vs APFS / GAI / JPMI |
 | [Metadata](catalog/metadata.md) | Extension and mtime-year summaries |
 | [Reports](catalog/reports.md) | Generated forensic summaries |
-| [Exhibits](catalog/exhibits.md) | R-00014 clips, FBI document photos, Locals stills |
+| [Exhibits](catalog/exhibits.md) | R-00014 clips, FBI document photos, Hayes affidavit, Locals stills |
 
 ## Categories
 

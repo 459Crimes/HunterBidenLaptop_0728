@@ -38,6 +38,8 @@ This page interleaves **public/court chronology** with **0728-internal measureme
 
 **3 June 2024 (~5:28 p.m. UTC−6).** Preserved call with **Kevin Morris** (Hunter Biden’s attorney): author stated that additional files received in 2021 were retrieved from **iCloud without authorization**. Participant statement. [Author](AUTHOR.md).
 
+**4 August 2024.** Hayes’s **signed affidavit** (paper title *Declaration of Conan James Hayes*): security clearances, cartels, alternative identities, voting-equipment authorization, told Tina Peters in 2021. Handwritten **8/4/24**; photo file **13 Aug 2024**. [Informant theory](INFORMANT_THEORY.md).
+
 **August 2024.** *People v. Peters* trial. Informant theory excluded; FBI denial of informant status as recited by the prosecutor. Journalism + later appellate opinion.
 
 ## 2026 — this encyclopedia’s working copy; criminal referral

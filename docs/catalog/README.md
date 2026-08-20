@@ -11,7 +11,7 @@ Checksums for every published `build/` object: [`build/manifest.tsv`](../../buil
 | [Hash manifest](hash_manifest.md) | SHA-256 overlap vs APFS / GAI / JPMI | [Integrity](../INTEGRITY.md) |
 | [Metadata](metadata.md) | Extension and mtime-year summaries | [Timestamps](../TIMESTAMPS.md) |
 | [Reports](reports.md) | Generated forensic summaries | [Timeline](../TIMELINE.md) |
-| [Exhibits](exhibits.md) | R-00014 audio, FBI document photos | [Exhibits](../EXHIBITS.md) |
+| [Exhibits](exhibits.md) | R-00014 audio, FBI document photos, Hayes signed affidavit | [Exhibits](../EXHIBITS.md) |
 
 ## How to read a table
 

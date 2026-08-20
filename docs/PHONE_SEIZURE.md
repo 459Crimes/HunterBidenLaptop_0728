@@ -44,7 +44,7 @@ This encyclopedia **preserves both** and labels the Mesa County pairing as the s
 
 ## Informant status
 
-These papers show **FBI contact and property receipt**. They are **not** a CHS file. The Peters prosecutor’s “never an informant” recitation is a trial statement, not these photos. [Tina Peters](TINA_PETERS.md).
+These papers show **FBI contact and property receipt**. They are **not** a CHS file. Hayes’s R-00014 Backpage / Homeland / “come in and out” account is **at least an asset**; it is a different record than these photos. Hayes’s **4 Aug 2024 signed affidavit** is his own cover-identity claim on paper. The Peters prosecutor’s “never an informant” recitation is a trial statement about the word **informant**, not a published denial of Backpage help. [Informant theory](INFORMANT_THEORY.md) · [Tina Peters](TINA_PETERS.md).
 
 ## See also
 

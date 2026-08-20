@@ -12,13 +12,14 @@ This encyclopedia **does** establish:
 - Ziegler relayed Hayes’s MEGA link to this author in August 2021; author is **first person known to download**;
 - Hayes claimed, on tape, that he carved Extra Files from unallocated space;
 - that claim is **incompatible** with TRIM on the 256 GB NVMe, with Mac Isaac’s file-aware copy, and with L3 scans of Hayes APFS and GAI — [carving claim](HAYES_CARVING_CLAIM.md);
-- FBI paperwork photographs show a 13 Sep 2022 iPhone custody event naming Hayes.
+- FBI paperwork photographs show a 13 Sep 2022 iPhone custody event naming Hayes;
+- Hayes said, on tape, that he worked for **Homeland** and helped the **FBI on Backpage**, coming **in and out** — **at least an asset** self-description ([informant theory](INFORMANT_THEORY.md)).
 
 This encyclopedia **does not** establish:
 
 - the make, serial, or hash of the **actual** volume R-Studio scanned in July 2021 (it was **not** unallocated space of the original NVMe or of **APFS*** / Hayes’s APFS (`RHB_Boot.imgc`, MEGA **13 June 2022**) / GAI in any substantial amount);
 - a named origin for the 94,635 primary-exclusive hashes;
-- registered informant status (Backpage / federal-protection story is discussed, not proved);
+- registered CHS / informant **file** status (Hayes’s R-00014 Homeland / FBI / Backpage “come in and out” account is **at least an asset**; the FBI “never an informant” recitation is a different word);
 - a causal link from a Trump call to the iPhone FD-597;
 - byte identity between Ziegler’s MEGA folder and Hayes’s private working set (no MEGA logs);
 - that Byrne’s ~400,000-file cache is the same SHA-256 set as 0728;
@@ -35,6 +36,7 @@ This encyclopedia **does not** establish:
 | Native Ziegler message re iCloud/thumbnails | Would promote UAS to authenticated participant evidence |
 | Complete FBI warrant packet (Sep 2022) | Would pin investigative file number and target |
 | Side-by-side MEGA vs current tree hash | Would prove the August 2021 download equals today’s inventory |
+| Certified court original of the 4 Aug 2024 Hayes affidavit | Photograph held; not a clerk-stamped exhibit |
 
 ## What “unknown origin” means
 

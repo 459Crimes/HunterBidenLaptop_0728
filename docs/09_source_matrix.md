@@ -18,11 +18,13 @@ Each row is a **claim** used in the articles, the **class**, and the **source**.
 | Hayes hosted Extra Found Files on MEGA (per Ziegler) | Participant (Ziegler) | Same |
 | Ziegler attributed Extra Files to Hayes | Participant (Ziegler) | Same |
 | Hayes carved Extra Files from unallocated space | Participant (Hayes) — **rejected as origin** | R-00014 00:20:29–00:24:33; rebuttal [carving claim](HAYES_CARVING_CLAIM.md) |
-| Hayes self-reported Homeland / Backpage FBI help | Participant (Hayes) | R-00014 00:25:07–00:25:46 |
+| Hayes self-reported Homeland work and FBI Backpage help, “come in and out,” not associated or affiliated | Participant (Hayes) | R-00014 00:25:07–00:25:46 |
+| That R-00014 account is **at least an asset** (not a registered CHS finding) | Interpretation of Hayes’s words | [Informant theory](INFORMANT_THEORY.md) · [Glossary](GLOSSARY.md) |
 | Hayes described a California van, warrant, powered-off phone | Participant (Hayes) | R-00014 00:01:49–00:08:13 |
 | FD-597 2022-09-13 names CONAN HAYES, black iPhone, Received From | Photographed federal form | `docs/exhibits/fbi/fd597_2022-09-13_conan_hayes_iphone.jpeg` |
 | SA Calum Ramm, Dallas; `cwramm@fbi.gov` | Photographed federal form | Ramm card + handwritten email exhibits |
 | Warrant excerpt authorizes biometric unlock of Hayes cellphone | Photographed excerpt | `hayes_cellphone_biometric_warrant_excerpt.jpeg` |
+| Hayes signed a 4 Aug 2024 affidavit (*Declaration of Conan James Hayes*): clearances since 2018, cartels, alternative identities, voting-equipment access, told Peters in 2021 | Photographed signed affidavit | `docs/exhibits/fbi/hayes_signed_affidavit_2024-08-04.jpg` · [Informant theory](INFORMANT_THEORY.md) |
 | Mesa County: Hayes used Wood’s badge, imaged elections server | Court-recited | *People v. Peters*, Colo. App. 24CA1951; trial journalism |
 | Informant theory excluded; prosecutor recited FBI “never an informant” | Court / journalism | CPR 2024-08-01; appellate ¶89 |
 | Peters bond motion: Hayes claimed federal informant / Backpage / cartels; identity concealed | Court filing (Peters counsel) | https://tinapeters.us/wp-content/uploads/2024/12/11-17-2024-Motion-for-Bond-on-Appeal.pdf |

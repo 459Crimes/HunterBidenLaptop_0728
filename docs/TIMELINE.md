@@ -16,6 +16,7 @@ Compact event list. Narrative: [06](06_timeline_and_handling.md).
 | **2022-09-13** | **FD-597 Hayes iPhone; Lindell phone same day** |
 | **2024-04-17** | **R-00014 carving call** |
 | **2024-06-03** | **Morris call: unauthorized iCloud retrieval claim** |
+| **2024-08-04** | **Hayes signs affidavit** (*Declaration of Conan James Hayes*; photo 13 Aug) |
 | 2024-08 | Peters trial; informant theory excluded |
 | before 2026-07-28 | Author electronic tip to federal authorities |
 | **2026-07-28** | **FBI/DOJ criminal referral on 0728** |

@@ -8,6 +8,7 @@
 - FBI FD-597, 13 Sep 2022. [jpeg](exhibits/fbi/fd597_2022-09-13_conan_hayes_iphone.jpeg)
 - SA Calum Ramm card and email. [card](exhibits/fbi/calum_ramm_fbi_business_card.jpeg) · [email](exhibits/fbi/calum_ramm_fbi_email.jpeg)
 - Warrant excerpt, Hayes cellphone biometrics. [jpeg](exhibits/fbi/hayes_cellphone_biometric_warrant_excerpt.jpeg)
+- **Hayes’s signed affidavit**, 4 Aug 2024 (paper title *Declaration of Conan James Hayes*; address redacted; photo 13 Aug 2024). [jpg](exhibits/fbi/hayes_signed_affidavit_2024-08-04.jpg) — [Informant theory](INFORMANT_THEORY.md)
 - Locals 8 Apr 2022 stills. [Properties 473,580](exhibits/locals/extra_found_files_properties_473580.jpg) · [Byrne drive](exhibits/locals/byrne_holding_portable_drive.jpg) · [hack chat](exhibits/locals/chat_maxxiscopolis_hack_not_laptop.jpg)
 
 ## Court / appellate
