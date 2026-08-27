@@ -1,8 +1,8 @@
-# Todd Sanders (CybrJstr)
+# Todd Sanders
 
 > **Hatnote.** Working hypothesis for **how a bootable laptop copy reached Hayes**. Not the MEGA hop for Extra Found Files. Chat-based unless otherwise labeled.
 
-**Todd Sanders** (chat handle **CybrJstr**) sits at the intersection of the **America Project** election-audit network and the **APFS bootable** laptop copies that Hayes later used.
+**Todd Sanders** sits at the intersection of the **America Project** election-audit network and the **APFS bootable** laptop copies that Hayes later used.
 
 ## Why he is on the 0728 page
 
@@ -17,11 +17,11 @@ Mac Isaac  →  Mike/Mark Trimarco  →  Todd Sanders (bootable Desktop copy)
 
 as the **best current network** for APFS-lineage media. Hayes then appears as alleged producer of Extra Found Files. Sanders is therefore **upstream of Hayes’s working laptop**, not the August 2021 MEGA courier.
 
-## What Sanders said (CybrJstr chat, July 2026)
+## What Sanders said (July 2026)
 
 Informal, retrospective, not a sworn custody log:
 
-- “ours was from **Mark Trimarco**”;
+- “ours was from **[Mike] Trimarco**”;
 - bootable copy with contents “dropped on the **Desktop**”;
 - Mac Isaac talked recipients through a **folder copy**, not a clone;
 - Sanders later made a **forensic image and clone**;
@@ -36,13 +36,7 @@ American Oversight records place Sanders in America Project “Fund the Audit”
 
 ## Name note
 
-Chat: “Mark Trimarco.” Journalism: “Michael” / “Mike” Trimarco ([Raw Story, 13 Apr 2022](https://www.rawstory.com/rudy-giuliani-associate/)). Treat as likely the same person pending a closed identity.
-
-## What this encyclopedia will not write
-
-- that Sanders hashed Extra Found Files;
-- that Trimarco → Sanders is proved by 0728 SHA-256;
-- that America Project “owns” 0728.
+Chat: “[Mike] Trimarco.” Journalism: “Michael” / “Mike” Trimarco ([Raw Story, 13 Apr 2022](https://www.rawstory.com/rudy-giuliani-associate/)).
 
 ## See also
 
