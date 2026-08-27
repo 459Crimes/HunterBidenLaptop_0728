@@ -9,7 +9,7 @@
 0728 itself arrived via [Ziegler](GARRETT_ZIEGLER.md). The **disk Hayes scanned** (if Extra Files came from a laptop-lineage copy at all) is a different question. Parent-project research treats:
 
 ```text
-Mac Isaac  →  Mike/Mark Trimarco  →  Todd Sanders (bootable Desktop copy)
+Mac Isaac  →  Mike Trimarco  →  Todd Sanders (bootable Desktop copy)
                                       │
                                       ▼
                                  Conan Hayes  →  MPOLO / APFS*
