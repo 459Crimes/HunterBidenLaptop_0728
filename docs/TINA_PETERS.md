@@ -32,8 +32,6 @@ R-00014’s Homeland/Backpage self-description — “I come in and out”; help
 
 **Chronology only:** Extra Found Files materializes **28–29 July 2021**, weeks after the Mesa County imaging and around the leak window. That coincidence is **not** a hash join. 0728 SHA-256 values are compared to Hunter Biden laptop-lineage catalogs, not to Mesa County election images (those images are not in this repo).
 
-Do not write “0728 came from Mesa County.” The inventories do not say that.
-
 ## See also
 
 - [Conan Hayes](CONAN_HAYES.md)
