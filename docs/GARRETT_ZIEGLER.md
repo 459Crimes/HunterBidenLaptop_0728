@@ -33,8 +33,6 @@ It did **not** analyze the JPMI / Della Rocca / Sanders Crucial X6 reports.
 
 The MPOLO bootable that Hayes prepared for Marco Polo **lacked essential macOS system files, including password vaults** (keychains). Ziegler / Marco Polo therefore **did not recover the iPhone-backup password**. Hayes’s later, fuller copy — the one that still contained `login_renamed_1.keychain-db` — was **essential** for that chain. [iPhone backup password](IPHONE_BACKUP_PASSWORD.md).
 
-Do not write “Marco Polo cracked the iPhone backup.” They did not, on the record this encyclopedia uses.
-
 ## Author’s role inside Marco Polo
 
 From **May 2021** DeGiovanni was a Marco Polo member, working with Ziegler, and pushed the group **off election-fraud work and onto the Biden laptop**. He was the **first person known to download** from Hayes’s MEGA link after Ziegler shared it. That is **author identification**, not Marco Polo’s hash table.
